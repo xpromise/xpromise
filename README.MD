@@ -2,28 +2,28 @@
 
 | 名称  | 描述  | 作者  | star量 | 地址  |
 | --- | --- | --- | ----- | --- |
-| SuperTinyIcons | Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos | Fedent | 11,371 | https://github.com/edent/SuperTinyIcons
-edex-ui | A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support. | FGitSquared | 24,748 | https://github.com/GitSquared/edex-ui
-bigbluebutton | Complete open source web conferencing system. | Fbigbluebutton | 5,932 | https://github.com/bigbluebutton/bigbluebutton
-webpack | A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff. | Fwebpack | 56,601 | https://github.com/webpack/webpack
-hiring-without-whiteboards | ⭐️ Companies that don't have a broken hiring process | Fpoteto | 18,894 | https://github.com/poteto/hiring-without-whiteboards
-a32nx | The A32NX Project is a community driven open source project to create a free Airbus A320neo in Microsoft Flight Simulator that is as close to reality as possible. It aims to enhance the default A320neo by improving the systems depth and functionality to bring it up to payware-level, all for free. | Fflybywiresim | 2,210 | https://github.com/flybywiresim/a32nx
-in-quiz-questions | Linkedin quiz assessment, linkedin test, questions and answers (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, css, python, machine-learning ...) ответы на квиз, LinkedIn quiz lösungen, linkedin quiz las respuestas | FEbazhanov | 1,018 | https://github.com/Ebazhanov/in-quiz-questions
-plugins | 🍣 The one-stop shop for official Rollup plugins | Frollup | 1,333 | https://github.com/rollup/plugins
-awesome-advent-of-code | A collection of awesome resources related to the yearly Advent of Code challenge. | FBogdanp | 555 | https://github.com/Bogdanp/awesome-advent-of-code
-project_e_commerce |  | Fadrianhajdin | 83 | https://github.com/adrianhajdin/project_e_commerce
-hundun | 自用脚本与服务 https://t.me/joinchat/O1WgnBbM18YjQQVFQ_D86w | Fwhyour | 64 | https://github.com/whyour/hundun
-Rocket.Chat | The ultimate Free Open Source Solution for team communications. | FRocketChat | 28,827 | https://github.com/RocketChat/Rocket.Chat
-awesome-cheatsheets | 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file. | FLeCoupa | 14,126 | https://github.com/LeCoupa/awesome-cheatsheets
-react-native-firebase | 🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services. | Finvertase | 8,557 | https://github.com/invertase/react-native-firebase
-Luckysheet | Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source. | Fmengshukeji | 6,459 | https://github.com/mengshukeji/Luckysheet
-nextra | The Next Static Site Generator | Fshuding | 768 | https://github.com/shuding/nextra
-notebook | Jupyter Interactive Notebook | Fjupyter | 7,816 | https://github.com/jupyter/notebook
-listen1_chrome_extension | one for all free music in china (chrome extension, also works for firefox) | Flisten1 | 6,899 | https://github.com/listen1/listen1_chrome_extension
-highlight.js | Javascript syntax highlighter | Fhighlightjs | 17,567 | https://github.com/highlightjs/highlight.js
-screenity | The most powerful screen recorder & annotation tool for Chrome 🎥 | Falyssaxuu | 3,652 | https://github.com/alyssaxuu/screenity
-baseweb | A React Component library implementing the Base design language | Fuber | 5,663 | https://github.com/uber/baseweb
-discord.js | A powerful JavaScript library for interacting with the Discord API | Fdiscordjs | 8,229 | https://github.com/discordjs/discord.js
-awesome-selfhosted | A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers | Fawesome-selfhosted | 50,550 | https://github.com/awesome-selfhosted/awesome-selfhosted
-babel | 🐠 Babel is a compiler for writing next generation JavaScript. | Fbabel | 37,897 | https://github.com/babel/babel
-kubernetes-external-secrets | Integrate external secret management systems with Kubernetes | Fexternal-secrets | 1,332 | https://github.com/external-secrets/kubernetes-external-secrets |
+| SuperTinyIcons | Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos | Fedent | 11,818 | https://github.com/edent/SuperTinyIcons
+awesome-advent-of-code | A collection of awesome resources related to the yearly Advent of Code challenge. | FBogdanp | 592 | https://github.com/Bogdanp/awesome-advent-of-code
+leetcode | LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。) | Fazl397985856 | 38,347 | https://github.com/azl397985856/leetcode
+vue-select | Everything you wish the HTML <select> element could do, wrapped up into a lightweight, extensible Vue component. | Fsagalbot | 3,679 | https://github.com/sagalbot/vue-select
+html5-boilerplate | A professional front-end template for building fast, robust, and adaptable web apps or sites. | Fh5bp | 47,994 | https://github.com/h5bp/html5-boilerplate
+Fifa21-AutoBuyer | Fifa 21 AutoBuyer / Snipping Bot for fifa 21 ultimate team web app | Fchithakumar13 | 93 | https://github.com/chithakumar13/Fifa21-AutoBuyer
+javascript | JavaScript Style Guide | Fairbnb | 102,051 | https://github.com/airbnb/javascript
+edex-ui | A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support. | FGitSquared | 24,920 | https://github.com/GitSquared/edex-ui
+realworld | "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅 | Fgothinkster | 50,246 | https://github.com/gothinkster/realworld
+nodebestpractices | ✅ The Node.js best practices list (December 2020) | Fgoldbergyoni | 55,418 | https://github.com/goldbergyoni/nodebestpractices
+procedural-gl-js | 3D mapping engine for the web | Ffelixpalmer | 454 | https://github.com/felixpalmer/procedural-gl-js
+shaka-player | JavaScript player library / DASH & HLS client / MSE-EME player | Fgoogle | 4,521 | https://github.com/google/shaka-player
+Luckysheet | Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source. | Fmengshukeji | 6,555 | https://github.com/mengshukeji/Luckysheet
+cube.js | 📊 Cube.js — Open-Source Analytical API Platform | Fcube-js | 9,279 | https://github.com/cube-js/cube.js
+Chart.js | Simple HTML5 Charts using the <canvas> tag | Fchartjs | 51,210 | https://github.com/chartjs/Chart.js
+monaco-editor | A browser based code editor | Fmicrosoft | 22,444 | https://github.com/microsoft/monaco-editor
+engine | Cocos Creator is a complete package of game development tools and workflow, including a game engine, resource management, scene editing, game preview, debug and publish one project to multiple platforms. | Fcocos-creator | 1,985 | https://github.com/cocos-creator/engine
+Rocket.Chat | The ultimate Free Open Source Solution for team communications. | FRocketChat | 28,842 | https://github.com/RocketChat/Rocket.Chat
+insomnia | The Open Source API Client and Design Platform for GraphQL, REST and gRPC | FKong | 15,030 | https://github.com/Kong/insomnia
+Weather-Cal | This is a Scriptable widget that lets you display, position, and format multiple elements, including dates and events, weather information, battery level, and more. You can even create your own elements. | Fmzeryck | 371 | https://github.com/mzeryck/Weather-Cal
+jd_scripts | 京东薅羊毛脚本 TG群组：https://t.me/JD_fruit_pet | Flxk0301 | 1,461 | https://github.com/lxk0301/jd_scripts
+vue | 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web. | Fvuejs | 176,185 | https://github.com/vuejs/vue
+listen1_chrome_extension | one for all free music in china (chrome extension, also works for firefox) | Flisten1 | 6,909 | https://github.com/listen1/listen1_chrome_extension
+jsoneditor | A web-based tool to view, edit, format, and validate JSON | Fjosdejong | 7,835 | https://github.com/josdejong/jsoneditor
+portainer | Making Docker and Kubernetes management easy. | Fportainer | 16,612 | https://github.com/portainer/portainer |
