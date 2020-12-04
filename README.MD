@@ -2,28 +2,28 @@
 
 | 名称  | 描述  | 作者  | star量 | 地址  |
 | --- | --- | --- | ----- | --- |
-| SuperTinyIcons | Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos | Fedent | 11,818 | https://github.com/edent/SuperTinyIcons
-awesome-advent-of-code | A collection of awesome resources related to the yearly Advent of Code challenge. | FBogdanp | 592 | https://github.com/Bogdanp/awesome-advent-of-code
-leetcode | LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。) | Fazl397985856 | 38,347 | https://github.com/azl397985856/leetcode
-vue-select | Everything you wish the HTML <select> element could do, wrapped up into a lightweight, extensible Vue component. | Fsagalbot | 3,679 | https://github.com/sagalbot/vue-select
-html5-boilerplate | A professional front-end template for building fast, robust, and adaptable web apps or sites. | Fh5bp | 47,994 | https://github.com/h5bp/html5-boilerplate
-Fifa21-AutoBuyer | Fifa 21 AutoBuyer / Snipping Bot for fifa 21 ultimate team web app | Fchithakumar13 | 93 | https://github.com/chithakumar13/Fifa21-AutoBuyer
-javascript | JavaScript Style Guide | Fairbnb | 102,051 | https://github.com/airbnb/javascript
-edex-ui | A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support. | FGitSquared | 24,920 | https://github.com/GitSquared/edex-ui
-realworld | "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅 | Fgothinkster | 50,246 | https://github.com/gothinkster/realworld
-nodebestpractices | ✅ The Node.js best practices list (December 2020) | Fgoldbergyoni | 55,418 | https://github.com/goldbergyoni/nodebestpractices
-procedural-gl-js | 3D mapping engine for the web | Ffelixpalmer | 454 | https://github.com/felixpalmer/procedural-gl-js
-shaka-player | JavaScript player library / DASH & HLS client / MSE-EME player | Fgoogle | 4,521 | https://github.com/google/shaka-player
-Luckysheet | Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source. | Fmengshukeji | 6,555 | https://github.com/mengshukeji/Luckysheet
-cube.js | 📊 Cube.js — Open-Source Analytical API Platform | Fcube-js | 9,279 | https://github.com/cube-js/cube.js
-Chart.js | Simple HTML5 Charts using the <canvas> tag | Fchartjs | 51,210 | https://github.com/chartjs/Chart.js
-monaco-editor | A browser based code editor | Fmicrosoft | 22,444 | https://github.com/microsoft/monaco-editor
-engine | Cocos Creator is a complete package of game development tools and workflow, including a game engine, resource management, scene editing, game preview, debug and publish one project to multiple platforms. | Fcocos-creator | 1,985 | https://github.com/cocos-creator/engine
-Rocket.Chat | The ultimate Free Open Source Solution for team communications. | FRocketChat | 28,842 | https://github.com/RocketChat/Rocket.Chat
-insomnia | The Open Source API Client and Design Platform for GraphQL, REST and gRPC | FKong | 15,030 | https://github.com/Kong/insomnia
-Weather-Cal | This is a Scriptable widget that lets you display, position, and format multiple elements, including dates and events, weather information, battery level, and more. You can even create your own elements. | Fmzeryck | 371 | https://github.com/mzeryck/Weather-Cal
-jd_scripts | 京东薅羊毛脚本 TG群组：https://t.me/JD_fruit_pet | Flxk0301 | 1,461 | https://github.com/lxk0301/jd_scripts
-vue | 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web. | Fvuejs | 176,185 | https://github.com/vuejs/vue
-listen1_chrome_extension | one for all free music in china (chrome extension, also works for firefox) | Flisten1 | 6,909 | https://github.com/listen1/listen1_chrome_extension
-jsoneditor | A web-based tool to view, edit, format, and validate JSON | Fjosdejong | 7,835 | https://github.com/josdejong/jsoneditor
-portainer | Making Docker and Kubernetes management easy. | Fportainer | 16,612 | https://github.com/portainer/portainer |
+| nodebestpractices | ✅ The Node.js best practices list (December 2020) | Fgoldbergyoni | 55,594 | https://github.com/goldbergyoni/nodebestpractices
+realworld | "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅 | Fgothinkster | 50,475 | https://github.com/gothinkster/realworld
+wmr | 👩‍🚀 The tiny all-in-one development tool for modern web apps. | Fpreactjs | 1,687 | https://github.com/preactjs/wmr
+html5-boilerplate | A professional front-end template for building fast, robust, and adaptable web apps or sites. | Fh5bp | 48,126 | https://github.com/h5bp/html5-boilerplate
+javascript | JavaScript Style Guide | Fairbnb | 102,234 | https://github.com/airbnb/javascript
+awesome-advent-of-code | A collection of awesome resources related to the yearly Advent of Code challenge. | FBogdanp | 645 | https://github.com/Bogdanp/awesome-advent-of-code
+SuperTinyIcons | Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos | Fedent | 12,044 | https://github.com/edent/SuperTinyIcons
+AI-Expert-Roadmap | Roadmap to becoming an Artificial Intelligence Expert in 2020 | FAMAI-GmbH | 6,572 | https://github.com/AMAI-GmbH/AI-Expert-Roadmap
+taobao-1212 | 🚀2020淘宝双十二活动自动化脚本【全额奖励，防检测】 | FYBQ789 | 98 | https://github.com/YBQ789/taobao-1212
+Full-Weatherline-Widget |  | Fitaloboy | 52 | https://github.com/italoboy/Full-Weatherline-Widget
+FileSaver.js | An HTML5 saveAs() FileSaver implementation | Feligrey | 15,690 | https://github.com/eligrey/FileSaver.js
+plotly.js | Open-source JavaScript charting library behind Plotly and Dash | Fplotly | 12,540 | https://github.com/plotly/plotly.js
+nw.js | Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies. | Fnwjs | 37,550 | https://github.com/nwjs/nw.js
+NodeBB | Node.js based forum software built for the modern web | FNodeBB | 11,527 | https://github.com/NodeBB/NodeBB
+snowpack | WASM-powered frontend build tool. Fast, lightweight, unbundled ESM. ✌️ | Fsnowpackjs | 14,041 | https://github.com/snowpackjs/snowpack
+pdf.js | PDF Reader in JavaScript | Fmozilla | 33,140 | https://github.com/mozilla/pdf.js
+lighthouse | Automated auditing, performance metrics, and best practices for the web. | FGoogleChrome | 21,242 | https://github.com/GoogleChrome/lighthouse
+fastify | Fast and low overhead web framework, for Node.js | Ffastify | 16,576 | https://github.com/fastify/fastify
+api-platform | REST and GraphQL framework to build modern API-driven projects (server-side and client-side) | Fapi-platform | 6,298 | https://github.com/api-platform/api-platform
+node-express-realworld-example-app |  | Fgothinkster | 2,751 | https://github.com/gothinkster/node-express-realworld-example-app
+office-docs-powershell | PowerShell Reference for Office Products - Short URL: aka.ms/office-powershell | FMicrosoftDocs | 313 | https://github.com/MicrosoftDocs/office-docs-powershell
+catalyst | Catalyst is a set of patterns and techniques for developing components within a complex application. | Fgithub | 179 | https://github.com/github/catalyst
+three.js | JavaScript 3D library. | Fmrdoob | 65,272 | https://github.com/mrdoob/three.js
+AR.js | Image tracking, Location Based AR, Marker tracking. All on the Web. | FAR-js-org | 1,631 | https://github.com/AR-js-org/AR.js
+fullPage.js | fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple | Falvarotrigo | 31,281 | https://github.com/alvarotrigo/fullPage.js |
