@@ -2,28 +2,28 @@
 
 | 名称  | 描述  | 作者  | star量 | 地址  |
 | --- | --- | --- | ----- | --- |
-| nodebestpractices | ✅ The Node.js best practices list (December 2020) | Fgoldbergyoni | 55,594 | https://github.com/goldbergyoni/nodebestpractices
-realworld | "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅 | Fgothinkster | 50,475 | https://github.com/gothinkster/realworld
-wmr | 👩‍🚀 The tiny all-in-one development tool for modern web apps. | Fpreactjs | 1,687 | https://github.com/preactjs/wmr
-html5-boilerplate | A professional front-end template for building fast, robust, and adaptable web apps or sites. | Fh5bp | 48,126 | https://github.com/h5bp/html5-boilerplate
-javascript | JavaScript Style Guide | Fairbnb | 102,234 | https://github.com/airbnb/javascript
-awesome-advent-of-code | A collection of awesome resources related to the yearly Advent of Code challenge. | FBogdanp | 645 | https://github.com/Bogdanp/awesome-advent-of-code
-SuperTinyIcons | Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos | Fedent | 12,044 | https://github.com/edent/SuperTinyIcons
-AI-Expert-Roadmap | Roadmap to becoming an Artificial Intelligence Expert in 2020 | FAMAI-GmbH | 6,572 | https://github.com/AMAI-GmbH/AI-Expert-Roadmap
-taobao-1212 | 🚀2020淘宝双十二活动自动化脚本【全额奖励，防检测】 | FYBQ789 | 98 | https://github.com/YBQ789/taobao-1212
-Full-Weatherline-Widget |  | Fitaloboy | 52 | https://github.com/italoboy/Full-Weatherline-Widget
-FileSaver.js | An HTML5 saveAs() FileSaver implementation | Feligrey | 15,690 | https://github.com/eligrey/FileSaver.js
-plotly.js | Open-source JavaScript charting library behind Plotly and Dash | Fplotly | 12,540 | https://github.com/plotly/plotly.js
-nw.js | Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies. | Fnwjs | 37,550 | https://github.com/nwjs/nw.js
-NodeBB | Node.js based forum software built for the modern web | FNodeBB | 11,527 | https://github.com/NodeBB/NodeBB
-snowpack | WASM-powered frontend build tool. Fast, lightweight, unbundled ESM. ✌️ | Fsnowpackjs | 14,041 | https://github.com/snowpackjs/snowpack
-pdf.js | PDF Reader in JavaScript | Fmozilla | 33,140 | https://github.com/mozilla/pdf.js
-lighthouse | Automated auditing, performance metrics, and best practices for the web. | FGoogleChrome | 21,242 | https://github.com/GoogleChrome/lighthouse
-fastify | Fast and low overhead web framework, for Node.js | Ffastify | 16,576 | https://github.com/fastify/fastify
-api-platform | REST and GraphQL framework to build modern API-driven projects (server-side and client-side) | Fapi-platform | 6,298 | https://github.com/api-platform/api-platform
-node-express-realworld-example-app |  | Fgothinkster | 2,751 | https://github.com/gothinkster/node-express-realworld-example-app
-office-docs-powershell | PowerShell Reference for Office Products - Short URL: aka.ms/office-powershell | FMicrosoftDocs | 313 | https://github.com/MicrosoftDocs/office-docs-powershell
-catalyst | Catalyst is a set of patterns and techniques for developing components within a complex application. | Fgithub | 179 | https://github.com/github/catalyst
-three.js | JavaScript 3D library. | Fmrdoob | 65,272 | https://github.com/mrdoob/three.js
-AR.js | Image tracking, Location Based AR, Marker tracking. All on the Web. | FAR-js-org | 1,631 | https://github.com/AR-js-org/AR.js
-fullPage.js | fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple | Falvarotrigo | 31,281 | https://github.com/alvarotrigo/fullPage.js |
+| wmr | 👩‍🚀 The tiny all-in-one development tool for modern web apps. | Fpreactjs | 2,016 | https://github.com/preactjs/wmr
+html5-boilerplate | A professional front-end template for building fast, robust, and adaptable web apps or sites. | Fh5bp | 48,284 | https://github.com/h5bp/html5-boilerplate
+realworld | "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅 | Fgothinkster | 50,788 | https://github.com/gothinkster/realworld
+awesome-advent-of-code | A collection of awesome resources related to the yearly Advent of Code challenge. | FBogdanp | 707 | https://github.com/Bogdanp/awesome-advent-of-code
+javascript | JavaScript Style Guide | Fairbnb | 102,425 | https://github.com/airbnb/javascript
+javascript-algorithms | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings | Ftrekhleb | 87,366 | https://github.com/trekhleb/javascript-algorithms
+Web | 前端入门到进阶图文教程，超详细的Web前端学习笔记。从零开始学前端，做一名精致优雅的前端工程师。公众号「千古壹号」作者。 | Fqianguyihao | 13,537 | https://github.com/qianguyihao/Web
+nodebestpractices | ✅ The Node.js best practices list (December 2020) | Fgoldbergyoni | 55,714 | https://github.com/goldbergyoni/nodebestpractices
+three.js | JavaScript 3D library. | Fmrdoob | 65,291 | https://github.com/mrdoob/three.js
+d3 | Bring data to life with SVG, Canvas and HTML. 📊📈🎉 | Fd3 | 94,748 | https://github.com/d3/d3
+evergreen | 🌲 Evergreen React UI Framework by Segment | Fsegmentio | 10,308 | https://github.com/segmentio/evergreen
+snowpack | WASM-powered frontend build tool. Fast, lightweight, unbundled ESM. ✌️ | Fsnowpackjs | 14,094 | https://github.com/snowpackjs/snowpack
+jsoneditor | A web-based tool to view, edit, format, and validate JSON | Fjosdejong | 7,884 | https://github.com/josdejong/jsoneditor
+strapi | 🚀 Open source Node.js Headless CMS to easily build customisable APIs | Fstrapi | 31,317 | https://github.com/strapi/strapi
+sql.js | A javascript library to run SQLite on the web. | Fsql-js | 7,725 | https://github.com/sql-js/sql.js
+WebGL-Fluid-Simulation | Play with fluids in your browser (works even on mobile) | FPavelDoGreat | 10,234 | https://github.com/PavelDoGreat/WebGL-Fluid-Simulation
+tiptap | A renderless rich-text editor for Vue.js | Fueberdosis | 8,538 | https://github.com/ueberdosis/tiptap
+lighthouse | Automated auditing, performance metrics, and best practices for the web. | FGoogleChrome | 21,246 | https://github.com/GoogleChrome/lighthouse
+bootstrap | The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. | Ftwbs | 145,595 | https://github.com/twbs/bootstrap
+aframe | 🅰️ web framework for building virtual reality experiences. | Faframevr | 12,128 | https://github.com/aframevr/aframe
+Signal-Desktop | Signal — Private Messenger for Windows, Mac, and Linux | Fsignalapp | 6,392 | https://github.com/signalapp/Signal-Desktop
+unleash | Unleash is the open source feature toggle service. | FUnleash | 2,705 | https://github.com/Unleash/unleash
+Vue.Draggable | Vue drag-and-drop component based on Sortable.js | FSortableJS | 13,727 | https://github.com/SortableJS/Vue.Draggable
+jitsi-meet | Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application. | Fjitsi | 14,665 | https://github.com/jitsi/jitsi-meet
+Detox | Gray box end-to-end testing and automation framework for mobile apps | Fwix | 7,297 | https://github.com/wix/Detox |
