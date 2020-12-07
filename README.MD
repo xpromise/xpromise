@@ -2,28 +2,28 @@
 
 | 名称  | 描述  | 作者  | star量 | 地址  |
 | --- | --- | --- | ----- | --- |
-| html5-boilerplate | A professional front-end template for building fast, robust, and adaptable web apps or sites. | Fh5bp | 48,428 | https://github.com/h5bp/html5-boilerplate
-realworld | "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅 | Fgothinkster | 50,976 | https://github.com/gothinkster/realworld
-wmr | 👩‍🚀 The tiny all-in-one development tool for modern web apps. | Fpreactjs | 2,261 | https://github.com/preactjs/wmr
-discord.js | A powerful JavaScript library for interacting with the Discord API | Fdiscordjs | 8,317 | https://github.com/discordjs/discord.js
-magnetW | 磁力链接聚合搜索 | Fxiandanin | 9,779 | https://github.com/xiandanin/magnetW
-javascript-algorithms | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings | Ftrekhleb | 87,441 | https://github.com/trekhleb/javascript-algorithms
-nodebestpractices | ✅ The Node.js best practices list (December 2020) | Fgoldbergyoni | 55,778 | https://github.com/goldbergyoni/nodebestpractices
-awesome-advent-of-code | A collection of awesome resources related to the yearly Advent of Code challenge. | FBogdanp | 751 | https://github.com/Bogdanp/awesome-advent-of-code
-vue-realworld-example-app | An exemplary real-world application built with Vue.js, Vuex, axios and different other technologies. This is a good example to discover Vue for beginners. | Fgothinkster | 3,288 | https://github.com/gothinkster/vue-realworld-example-app
-alpine | A rugged, minimal framework for composing JavaScript behavior in your markup. | Falpinejs | 12,122 | https://github.com/alpinejs/alpine
-Web | 前端入门到进阶图文教程，超详细的Web前端学习笔记。从零开始学前端，做一名精致优雅的前端工程师。公众号「千古壹号」作者。 | Fqianguyihao | 13,557 | https://github.com/qianguyihao/Web
-javascript | JavaScript Style Guide | Fairbnb | 102,530 | https://github.com/airbnb/javascript
-zigbee2mqtt | Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨 | FKoenkk | 4,991 | https://github.com/Koenkk/zigbee2mqtt
-docs | The open-source repo for docs.github.com | Fgithub | 1,683 | https://github.com/github/docs
-snowpack | WASM-powered frontend build tool. Fast, lightweight, unbundled ESM. ✌️ | Fsnowpackjs | 14,142 | https://github.com/snowpackjs/snowpack
-react-redux-realworld-example-app | Exemplary real world application built with React + Redux | Fgothinkster | 4,645 | https://github.com/gothinkster/react-redux-realworld-example-app
-node-express-realworld-example-app |  | Fgothinkster | 2,768 | https://github.com/gothinkster/node-express-realworld-example-app
-sql.js | A javascript library to run SQLite on the web. | Fsql-js | 7,747 | https://github.com/sql-js/sql.js
-d3 | Bring data to life with SVG, Canvas and HTML. 📊📈🎉 | Fd3 | 94,759 | https://github.com/d3/d3
-bootstrap | The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. | Ftwbs | 145,623 | https://github.com/twbs/bootstrap
-reactjs.org | The React documentation website | Freactjs | 5,199 | https://github.com/reactjs/reactjs.org
-website | The train engine powering the Coding Train website | FCodingTrain | 4,768 | https://github.com/CodingTrain/website
-webogram | Telegram web application, GPL v3 | Fzhukov | 6,929 | https://github.com/zhukov/webogram
-academicpages.github.io | Github Pages template for academic personal websites, forked from mmistakes/minimal-mistakes | Facademicpages | 3,522 | https://github.com/academicpages/academicpages.github.io
-a32nx | The A32NX Project is a community driven open source project to create a free Airbus A320neo in Microsoft Flight Simulator that is as close to reality as possible. It aims to enhance the default A320neo by improving the systems depth and functionality to bring it up to payware-level, all for free. | Fflybywiresim | 2,245 | https://github.com/flybywiresim/a32nx |
+| docs | The open-source repo for docs.github.com | Fgithub | 1,765 | https://github.com/github/docs
+discord.js | A powerful JavaScript library for interacting with the Discord API | Fdiscordjs | 8,421 | https://github.com/discordjs/discord.js
+magnetW | 磁力链接聚合搜索 | Fxiandanin | 9,922 | https://github.com/xiandanin/magnetW
+html5-boilerplate | A professional front-end template for building fast, robust, and adaptable web apps or sites. | Fh5bp | 48,523 | https://github.com/h5bp/html5-boilerplate
+javascript-algorithms | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings | Ftrekhleb | 87,634 | https://github.com/trekhleb/javascript-algorithms
+realworld | "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅 | Fgothinkster | 51,226 | https://github.com/gothinkster/realworld
+wmr | 👩‍🚀 The tiny all-in-one development tool for modern web apps. | Fpreactjs | 2,500 | https://github.com/preactjs/wmr
+awesome-advent-of-code | A collection of awesome resources related to the yearly Advent of Code challenge. | FBogdanp | 773 | https://github.com/Bogdanp/awesome-advent-of-code
+freeCodeCamp | freeCodeCamp.org's open source codebase and curriculum. Learn to code at home. | FfreeCodeCamp | 317,337 | https://github.com/freeCodeCamp/freeCodeCamp
+widgets |  | Fthewaytozion | 81 | https://github.com/thewaytozion/widgets
+iptv | Collection of 5000+ publicly available IPTV channels from all over the world | Fiptv-org | 21,690 | https://github.com/iptv-org/iptv
+Superalgos | Crypto Trading Bots and Strategy Automation Platform: Visual Scripting Designer, Integrated Charting System, Visual Strategy Debugger, Trading Farm Deployments. | FSuperalgos | 162 | https://github.com/Superalgos/Superalgos
+puppeteer-extra | 💯 Teach puppeteer new tricks through plugins. | Fberstend | 1,865 | https://github.com/berstend/puppeteer-extra
+fullstack-course4 | Example code for HTML, CSS, and Javascript for Web Developers Coursera Course | Fjhu-ep-coursera | 4,387 | https://github.com/jhu-ep-coursera/fullstack-course4
+SingleFile | Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file | Fgildas-lormeau | 2,647 | https://github.com/gildas-lormeau/SingleFile
+Web | 前端入门到进阶图文教程，超详细的Web前端学习笔记。从零开始学前端，做一名精致优雅的前端工程师。公众号「千古壹号」作者。 | Fqianguyihao | 13,612 | https://github.com/qianguyihao/Web
+devconnector_2.0 | Social network for developers, built on the MERN stack | Fbradtraversy | 1,186 | https://github.com/bradtraversy/devconnector_2.0
+Windows-universal-samples | API samples for the Universal Windows Platform. | Fmicrosoft | 7,925 | https://github.com/microsoft/Windows-universal-samples
+ios_rule_script | iOS平台的分流规则、复写规则和一些自动化脚本。 | Fblackmatrix7 | 79 | https://github.com/blackmatrix7/ios_rule_script
+nuxt.js | The Intuitive Vue Framework | Fnuxt | 32,435 | https://github.com/nuxt/nuxt.js
+parcel | 📦🚀 Blazing fast, zero configuration web application bundler | Fparcel-bundler | 37,192 | https://github.com/parcel-bundler/parcel
+plugins | 🍣 The one-stop shop for official Rollup plugins | Frollup | 1,350 | https://github.com/rollup/plugins
+advent-of-code-2020 | My JavaScript solutions for Advent of Code 2020 | Fadriennetacke | 13 | https://github.com/adriennetacke/advent-of-code-2020
+joplin | Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/ | Flaurent22 | 19,264 | https://github.com/laurent22/joplin
+lax.js | Simple & lightweight (<4kb gzipped) vanilla JavaScript library to create smooth & beautiful animations when you scroll. | Falexfoxy | 7,409 | https://github.com/alexfoxy/lax.js |
