@@ -2,28 +2,28 @@
 
 | 名称  | 描述  | 作者  | star量 | 地址  |
 | --- | --- | --- | ----- | --- |
-| docs | The open-source repo for docs.github.com | Fgithub | 1,765 | https://github.com/github/docs
-discord.js | A powerful JavaScript library for interacting with the Discord API | Fdiscordjs | 8,421 | https://github.com/discordjs/discord.js
-magnetW | 磁力链接聚合搜索 | Fxiandanin | 9,922 | https://github.com/xiandanin/magnetW
-html5-boilerplate | A professional front-end template for building fast, robust, and adaptable web apps or sites. | Fh5bp | 48,523 | https://github.com/h5bp/html5-boilerplate
-javascript-algorithms | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings | Ftrekhleb | 87,634 | https://github.com/trekhleb/javascript-algorithms
-realworld | "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅 | Fgothinkster | 51,226 | https://github.com/gothinkster/realworld
-wmr | 👩‍🚀 The tiny all-in-one development tool for modern web apps. | Fpreactjs | 2,500 | https://github.com/preactjs/wmr
-awesome-advent-of-code | A collection of awesome resources related to the yearly Advent of Code challenge. | FBogdanp | 773 | https://github.com/Bogdanp/awesome-advent-of-code
-freeCodeCamp | freeCodeCamp.org's open source codebase and curriculum. Learn to code at home. | FfreeCodeCamp | 317,337 | https://github.com/freeCodeCamp/freeCodeCamp
-widgets |  | Fthewaytozion | 81 | https://github.com/thewaytozion/widgets
-iptv | Collection of 5000+ publicly available IPTV channels from all over the world | Fiptv-org | 21,690 | https://github.com/iptv-org/iptv
-Superalgos | Crypto Trading Bots and Strategy Automation Platform: Visual Scripting Designer, Integrated Charting System, Visual Strategy Debugger, Trading Farm Deployments. | FSuperalgos | 162 | https://github.com/Superalgos/Superalgos
-puppeteer-extra | 💯 Teach puppeteer new tricks through plugins. | Fberstend | 1,865 | https://github.com/berstend/puppeteer-extra
-fullstack-course4 | Example code for HTML, CSS, and Javascript for Web Developers Coursera Course | Fjhu-ep-coursera | 4,387 | https://github.com/jhu-ep-coursera/fullstack-course4
-SingleFile | Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file | Fgildas-lormeau | 2,647 | https://github.com/gildas-lormeau/SingleFile
-Web | 前端入门到进阶图文教程，超详细的Web前端学习笔记。从零开始学前端，做一名精致优雅的前端工程师。公众号「千古壹号」作者。 | Fqianguyihao | 13,612 | https://github.com/qianguyihao/Web
-devconnector_2.0 | Social network for developers, built on the MERN stack | Fbradtraversy | 1,186 | https://github.com/bradtraversy/devconnector_2.0
-Windows-universal-samples | API samples for the Universal Windows Platform. | Fmicrosoft | 7,925 | https://github.com/microsoft/Windows-universal-samples
-ios_rule_script | iOS平台的分流规则、复写规则和一些自动化脚本。 | Fblackmatrix7 | 79 | https://github.com/blackmatrix7/ios_rule_script
-nuxt.js | The Intuitive Vue Framework | Fnuxt | 32,435 | https://github.com/nuxt/nuxt.js
-parcel | 📦🚀 Blazing fast, zero configuration web application bundler | Fparcel-bundler | 37,192 | https://github.com/parcel-bundler/parcel
-plugins | 🍣 The one-stop shop for official Rollup plugins | Frollup | 1,350 | https://github.com/rollup/plugins
-advent-of-code-2020 | My JavaScript solutions for Advent of Code 2020 | Fadriennetacke | 13 | https://github.com/adriennetacke/advent-of-code-2020
-joplin | Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/ | Flaurent22 | 19,264 | https://github.com/laurent22/joplin
-lax.js | Simple & lightweight (<4kb gzipped) vanilla JavaScript library to create smooth & beautiful animations when you scroll. | Falexfoxy | 7,409 | https://github.com/alexfoxy/lax.js |
+| flot | Attractive JavaScript charts for jQuery | Fflot | 5,856 | https://github.com/flot/flot
+eslint-plugin-import | ESLint plugin with rules that help validate proper imports. | Fbenmosher | 2,932 | https://github.com/benmosher/eslint-plugin-import
+maps | A Mapbox GL react native module for creating custom maps | Freact-native-mapbox-gl | 764 | https://github.com/react-native-mapbox-gl/maps
+engine | Cocos Creator is a complete package of game development tools and workflow, including a game engine, resource management, scene editing, game preview, debug and publish one project to multiple platforms. | Fcocos-creator | 1,996 | https://github.com/cocos-creator/engine
+grommet | a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package | Fgrommet | 6,853 | https://github.com/grommet/grommet
+lerna | 🐉 A tool for managing JavaScript projects with multiple packages. | Flerna | 25,729 | https://github.com/lerna/lerna
+Vulkan-Docs | The Vulkan API Specification and related tools | FKhronosGroup | 1,809 | https://github.com/KhronosGroup/Vulkan-Docs
+react-redux-realworld-example-app | Exemplary real world application built with React + Redux | Fgothinkster | 4,660 | https://github.com/gothinkster/react-redux-realworld-example-app
+handsontable | Handsontable is a JavaScript/HTML5 data grid with spreadsheet look & feel. Available for React, Vue and Angular. | Fhandsontable | 14,533 | https://github.com/handsontable/handsontable
+FlexSlider | An awesome, fully responsive jQuery slider plugin | Fwoocommerce | 4,978 | https://github.com/woocommerce/FlexSlider
+vue-echarts | Apache ECharts (incubating) component for Vue.js. | Fecomfe | 5,377 | https://github.com/ecomfe/vue-echarts
+cropper | ⚠️ [Deprecated] No longer maintained, please use https://github.com/fengyuanchen/jquery-cropper | Ffengyuanchen | 7,803 | https://github.com/fengyuanchen/cropper
+react-table | ⚛️ Hooks for building fast and extendable tables and datagrids for React | Ftannerlinsley | 13,032 | https://github.com/tannerlinsley/react-table
+wp-calypso | The JavaScript and API powered WordPress.com | FAutomattic | 11,642 | https://github.com/Automattic/wp-calypso
+dash.js | A reference client implementation for the playback of MPEG DASH via Javascript and compliant browsers. | FDash-Industry-Forum | 3,685 | https://github.com/Dash-Industry-Forum/dash.js
+protobuf.js | Protocol Buffers for JavaScript (& TypeScript). | Fprotobufjs | 7,117 | https://github.com/protobufjs/protobuf.js
+knockout | Knockout makes it easier to create rich, responsive UIs with JavaScript | Fknockout | 9,885 | https://github.com/knockout/knockout
+winston | A logger for just about everything. | Fwinstonjs | 16,432 | https://github.com/winstonjs/winston
+fabric.js | Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser | Ffabricjs | 17,399 | https://github.com/fabricjs/fabric.js
+country-flags | SVG and PNG renders of all countries' flags. | Fhjnilsson | 2,086 | https://github.com/hjnilsson/country-flags
+carbon | A design system built by IBM | Fcarbon-design-system | 3,757 | https://github.com/carbon-design-system/carbon
+Inputmask | Input Mask plugin | FRobinHerbots | 5,234 | https://github.com/RobinHerbots/Inputmask
+mediaelement | HTML5 <audio> or <video> player with support for MP4, WebM, and MP3 as well as HLS, Dash, YouTube, Facebook, SoundCloud and others with a common HTML5 MediaElement API, enabling a consistent UI in all browsers. | Fmediaelement | 7,484 | https://github.com/mediaelement/mediaelement
+discord.js | A powerful JavaScript library for interacting with the Discord API | Fdiscordjs | 8,472 | https://github.com/discordjs/discord.js
+element3 | A Vue.js 3.0 UI Toolkit for Web. | Fhug-sun | 2,200 | https://github.com/hug-sun/element3 |
