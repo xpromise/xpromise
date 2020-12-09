@@ -2,28 +2,28 @@
 
 | 名称  | 描述  | 作者  | star量 | 地址  |
 | --- | --- | --- | ----- | --- |
-| flot | Attractive JavaScript charts for jQuery | Fflot | 5,856 | https://github.com/flot/flot
-eslint-plugin-import | ESLint plugin with rules that help validate proper imports. | Fbenmosher | 2,932 | https://github.com/benmosher/eslint-plugin-import
-maps | A Mapbox GL react native module for creating custom maps | Freact-native-mapbox-gl | 764 | https://github.com/react-native-mapbox-gl/maps
-engine | Cocos Creator is a complete package of game development tools and workflow, including a game engine, resource management, scene editing, game preview, debug and publish one project to multiple platforms. | Fcocos-creator | 1,996 | https://github.com/cocos-creator/engine
-grommet | a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package | Fgrommet | 6,853 | https://github.com/grommet/grommet
-lerna | 🐉 A tool for managing JavaScript projects with multiple packages. | Flerna | 25,729 | https://github.com/lerna/lerna
-Vulkan-Docs | The Vulkan API Specification and related tools | FKhronosGroup | 1,809 | https://github.com/KhronosGroup/Vulkan-Docs
-react-redux-realworld-example-app | Exemplary real world application built with React + Redux | Fgothinkster | 4,660 | https://github.com/gothinkster/react-redux-realworld-example-app
-handsontable | Handsontable is a JavaScript/HTML5 data grid with spreadsheet look & feel. Available for React, Vue and Angular. | Fhandsontable | 14,533 | https://github.com/handsontable/handsontable
-FlexSlider | An awesome, fully responsive jQuery slider plugin | Fwoocommerce | 4,978 | https://github.com/woocommerce/FlexSlider
-vue-echarts | Apache ECharts (incubating) component for Vue.js. | Fecomfe | 5,377 | https://github.com/ecomfe/vue-echarts
-cropper | ⚠️ [Deprecated] No longer maintained, please use https://github.com/fengyuanchen/jquery-cropper | Ffengyuanchen | 7,803 | https://github.com/fengyuanchen/cropper
-react-table | ⚛️ Hooks for building fast and extendable tables and datagrids for React | Ftannerlinsley | 13,032 | https://github.com/tannerlinsley/react-table
-wp-calypso | The JavaScript and API powered WordPress.com | FAutomattic | 11,642 | https://github.com/Automattic/wp-calypso
-dash.js | A reference client implementation for the playback of MPEG DASH via Javascript and compliant browsers. | FDash-Industry-Forum | 3,685 | https://github.com/Dash-Industry-Forum/dash.js
-protobuf.js | Protocol Buffers for JavaScript (& TypeScript). | Fprotobufjs | 7,117 | https://github.com/protobufjs/protobuf.js
-knockout | Knockout makes it easier to create rich, responsive UIs with JavaScript | Fknockout | 9,885 | https://github.com/knockout/knockout
-winston | A logger for just about everything. | Fwinstonjs | 16,432 | https://github.com/winstonjs/winston
-fabric.js | Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser | Ffabricjs | 17,399 | https://github.com/fabricjs/fabric.js
-country-flags | SVG and PNG renders of all countries' flags. | Fhjnilsson | 2,086 | https://github.com/hjnilsson/country-flags
-carbon | A design system built by IBM | Fcarbon-design-system | 3,757 | https://github.com/carbon-design-system/carbon
-Inputmask | Input Mask plugin | FRobinHerbots | 5,234 | https://github.com/RobinHerbots/Inputmask
-mediaelement | HTML5 <audio> or <video> player with support for MP4, WebM, and MP3 as well as HLS, Dash, YouTube, Facebook, SoundCloud and others with a common HTML5 MediaElement API, enabling a consistent UI in all browsers. | Fmediaelement | 7,484 | https://github.com/mediaelement/mediaelement
-discord.js | A powerful JavaScript library for interacting with the Discord API | Fdiscordjs | 8,472 | https://github.com/discordjs/discord.js
-element3 | A Vue.js 3.0 UI Toolkit for Web. | Fhug-sun | 2,200 | https://github.com/hug-sun/element3 |
+| javascript-algorithms | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings | Ftrekhleb | 88,062 | https://github.com/trekhleb/javascript-algorithms
+mapbox-gl-js | Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL | Fmapbox | 6,584 | https://github.com/mapbox/mapbox-gl-js
+procedural-gl-js | 3D mapping engine for the web | Ffelixpalmer | 642 | https://github.com/felixpalmer/procedural-gl-js
+github-readme-stats | ⚡ Dynamically generated stats for your github readmes | Fanuraghazra | 15,059 | https://github.com/anuraghazra/github-readme-stats
+cypress | Fast, easy and reliable testing for anything that runs in a browser. | Fcypress-io | 24,921 | https://github.com/cypress-io/cypress
+odoo | Odoo. Open Source Apps To Grow Your Business. | Fodoo | 19,892 | https://github.com/odoo/odoo
+chrome-extensions-samples | Chrome Extensions Samples | FGoogleChrome | 6,899 | https://github.com/GoogleChrome/chrome-extensions-samples
+vuex | 🗃️ Centralized State Management for Vue.js. | Fvuejs | 25,337 | https://github.com/vuejs/vuex
+ios_rule_script | iOS平台的分流规则、复写规则和一些自动化脚本。 | Fblackmatrix7 | 201 | https://github.com/blackmatrix7/ios_rule_script
+docs | The open-source repo for docs.github.com | Fgithub | 1,836 | https://github.com/github/docs
+Index | Metarhia educational program index 📖 | FHowProgrammingWorks | 1,121 | https://github.com/HowProgrammingWorks/Index
+Twake | Twake is a collaborative platform which improves teamwork | FTwakeApp | 665 | https://github.com/TwakeApp/Twake
+apps-script-samples | Apps Script samples for Google Workspace products. | Fgoogleworkspace | 2,696 | https://github.com/googleworkspace/apps-script-samples
+taojinbi | 淘宝双12活动和淘金币活动，脚本兼容 | FJavisPeng | 16 | https://github.com/JavisPeng/taojinbi
+QuantumultX |  | FOrz-3 | 372 | https://github.com/Orz-3/QuantumultX
+handsontable | Handsontable is a JavaScript/HTML5 data grid with spreadsheet look & feel. Available for React, Vue and Angular. | Fhandsontable | 14,547 | https://github.com/handsontable/handsontable
+typed.js | A JavaScript Typing Animation Library | Fmattboldt | 10,182 | https://github.com/mattboldt/typed.js
+next.js | The React Framework | Fvercel | 58,210 | https://github.com/vercel/next.js
+material-ui | React components for faster and simpler web development. Build your own design system, or start with Material Design. | Fmui-org | 63,414 | https://github.com/mui-org/material-ui
+taro | 开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5 等应用。 https://taro.zone/ | FNervJS | 27,670 | https://github.com/NervJS/taro
+engine | Cocos Creator is a complete package of game development tools and workflow, including a game engine, resource management, scene editing, game preview, debug and publish one project to multiple platforms. | Fcocos-creator | 2,005 | https://github.com/cocos-creator/engine
+bootstrap | The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. | Ftwbs | 145,689 | https://github.com/twbs/bootstrap
+The-API-Book | ‘The API’ book by Sergey Konstantinov | Ftwirl | 81 | https://github.com/twirl/The-API-Book
+vue-cli | 🛠️ Standard Tooling for Vue.js Development | Fvuejs | 26,910 | https://github.com/vuejs/vue-cli
+devconnector_2.0 | Social network for developers, built on the MERN stack | Fbradtraversy | 1,184 | https://github.com/bradtraversy/devconnector_2.0 |
