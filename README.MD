@@ -2,28 +2,28 @@
 
 | 名称  | 描述  | 作者  | star量 | 地址  |
 | --- | --- | --- | ----- | --- |
-| snapdrop5,026521 | A Progressive Web App for local file sharing | SponsorStarRobinLinus | 5,026 | /sponsors/RobinLinus
-BlueSea27612 | BlueSea，是一个有趣的英语学习扩展程序。支持划词翻译、单词高亮、单词弹幕、记忆曲线复习、词频统计...等功能。 | Starjiangqizheng | 276 | /login?return_to=%2Fjiangqizheng%2FBlueSea
-MagicMirror13,3623,378 | MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant. | SponsorStarMichMich | 13,362 | /sponsors/MichMich
-nodebestpractices56,5955,453 | ✅ The Node.js best practices list (December 2020) | Stargoldbergyoni | 56,595 | /login?return_to=%2Fgoldbergyoni%2Fnodebestpractices
-BrasilAPI3,063240 | Vamos transformar o Brasil em uma API? | StarBrasilAPI | 3,063 | /login?return_to=%2FBrasilAPI%2FBrasilAPI
-react-native92,20120,330 | A framework for building native apps with React. | Starfacebook | 92,201 | /login?return_to=%2Ffacebook%2Freact-native
-elasticsearch-js4,501597 | Official Elasticsearch client library for Node.js | Starelastic | 4,501 | /login?return_to=%2Felastic%2Felasticsearch-js
-parse-server18,0704,416 | API server module for Node/Express | SponsorStarparse-community | 18,070 | /sponsors/parse-community
-hyperbeam25711 | A 1-1 end-to-end encrypted internet pipe powered by Hyperswarm | SponsorStarmafintosh | 257 | /sponsors/mafintosh
-zigbee2mqtt5,043888 | Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨 | SponsorStarKoenkk | 5,043 | /sponsors/Koenkk
-FE-Interview1,991266 | 前端面试大全，独有前端面试题详解，前端面试刷题必备，1000+前端面试真题，Html、Css、JavaScript、Vue、React、Node、TypeScript、Webpack、算法、网络与安全、浏览器 | Starlgwebdream | 1,991 | /login?return_to=%2Flgwebdream%2FFE-Interview
-express51,1848,552 | Fast, unopinionated, minimalist web framework for node. | Starexpressjs | 51,184 | /login?return_to=%2Fexpressjs%2Fexpress
-winston16,4861,479 | A logger for just about everything. | Starwinstonjs | 16,486 | /login?return_to=%2Fwinstonjs%2Fwinston
-OSINT-Framework2,300544 | OSINT Framework | Starlockfale | 2,300 | /login?return_to=%2Flockfale%2FOSINT-Framework
-react-window9,463497 | React components for efficiently rendering large lists and tabular data | Starbvaughn | 9,463 | /login?return_to=%2Fbvaughn%2Freact-window
-semgrep2,497104 | Lightweight static analysis for many languages. Find bug variants with patterns that look like source code. | Starreturntocorp | 2,497 | /login?return_to=%2Freturntocorp%2Fsemgrep
-react-native-swiper9,3172,193 | The best Swiper component for React Native. | Starleecade | 9,317 | /login?return_to=%2Fleecade%2Freact-native-swiper
-complete-javascript-course5,5276,984 | Starter files, final projects and FAQ for my Complete JavaScript course | Starjonasschmedtmann | 5,527 | /login?return_to=%2Fjonasschmedtmann%2Fcomplete-javascript-course
-node-express-mongoose-boilerplate475173 | A boilerplate for building production-ready RESTful APIs using Node.js, Express, and Mongoose | Starhagopj13 | 475 | /login?return_to=%2Fhagopj13%2Fnode-express-mongoose-boilerplate
-commander.js19,3551,339 | node.js command-line interfaces made easy | SponsorStartj | 19,355 | /sponsors/tj
-fullstack-course44,4317,326 | Example code for HTML, CSS, and Javascript for Web Developers Coursera Course | Starjhu-ep-coursera | 4,431 | /login?return_to=%2Fjhu-ep-coursera%2Ffullstack-course4
-marinara1,431204 | Pomodoro® time management assistant for Chrome | Starschmich | 1,431 | /login?return_to=%2Fschmich%2Fmarinara
-svelte40,3231,919 | Cybernetically enhanced web apps | Starsveltejs | 40,323 | /login?return_to=%2Fsveltejs%2Fsvelte
-deck.gl8,2341,481 | WebGL2 powered geospatial visualization layers | Starvisgl | 8,234 | /login?return_to=%2Fvisgl%2Fdeck.gl
-django-ecommerce745739 | An e-commerce website built with Django | Starjustdjango | 745 | /login?return_to=%2Fjustdjango%2Fdjango-ecommerce |
+| snapdrop5,460540 | A Progressive Web App for local file sharing | SponsorStarRobinLinus | 5,460 | /sponsors/RobinLinus
+jitsi-meet14,7554,580 | Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application. | Starjitsi | 14,755 | /login?return_to=%2Fjitsi%2Fjitsi-meet
+FE-Interview2,040273 | 前端面试，独有前端面试题详解，前端面试刷题必备，1000+前端面试真题，Html、Css、JavaScript、Vue、React、Node、TypeScript、Webpack、算法、网络与安全、浏览器 | Starlgwebdream | 2,040 | /login?return_to=%2Flgwebdream%2FFE-Interview
+BlueSea40226 | BlueSea，是一个有趣的英语学习扩展程序。支持划词翻译、单词高亮、单词弹幕、记忆曲线复习、词频统计...等功能。 | Starjiangqizheng | 402 | /login?return_to=%2Fjiangqizheng%2FBlueSea
+module-federation-examples663143 | Implementation examples of module federation , by the creators of module federation | Starmodule-federation | 663 | /login?return_to=%2Fmodule-federation%2Fmodule-federation-examples
+material-ui63,60019,547 | React components for faster and simpler web development. Build your own design system, or start with Material Design. | Starmui-org | 63,600 | /login?return_to=%2Fmui-org%2Fmaterial-ui
+33-js-concepts34,1294,076 | 📜 33 concepts every JavaScript developer should know. | Starleonardomso | 34,129 | /login?return_to=%2Fleonardomso%2F33-js-concepts
+lodash47,5435,404 | A modern JavaScript utility library delivering modularity, performance, & extras. | Starlodash | 47,543 | /login?return_to=%2Flodash%2Flodash
+showcase-books-search655 | A site to instantly search 28M books from OpenLibrary using Typesense Search (an open source alternative to Algolia / ElasticSearch) ⚡ 📚 🔍 | Startypesense | 65 | /login?return_to=%2Ftypesense%2Fshowcase-books-search
+slick26,3205,492 | the last carousel you'll ever need | Starkenwheeler | 26,320 | /login?return_to=%2Fkenwheeler%2Fslick
+opencti1,432265 | Open Cyber Threat Intelligence Platform | StarOpenCTI-Platform | 1,432 | /login?return_to=%2FOpenCTI-Platform%2Fopencti
+reactjs-interview-questions9,2352,142 | List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!! | Starsudheerj | 9,235 | /login?return_to=%2Fsudheerj%2Freactjs-interview-questions
+create-react-app84,59820,779 | Set up a modern web app by running one command. | Starfacebook | 84,598 | /login?return_to=%2Ffacebook%2Fcreate-react-app
+Index1,139174 | Metarhia educational program index 📖 | StarHowProgrammingWorks | 1,139 | /login?return_to=%2FHowProgrammingWorks%2FIndex
+fabric.js17,4682,623 | Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser | Starfabricjs | 17,468 | /login?return_to=%2Ffabricjs%2Ffabric.js
+node75,39018,807 | Node.js JavaScript runtime ✨🐢🚀✨ | Starnodejs | 75,390 | /login?return_to=%2Fnodejs%2Fnode
+js.org3,3892,359 | Dedicated to JavaScript and its awesome community since 2015 | Starjs-org | 3,389 | /login?return_to=%2Fjs-org%2Fjs.org
+react-native92,21120,334 | A framework for building native apps with React. | Starfacebook | 92,211 | /login?return_to=%2Ffacebook%2Freact-native
+gatsby48,2249,119 | Build blazing fast, modern apps and websites with React | Stargatsbyjs | 48,224 | /login?return_to=%2Fgatsbyjs%2Fgatsby
+MagicMirror13,4383,382 | MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant. | SponsorStarMichMich | 13,438 | /sponsors/MichMich
+pipedream1,269872 | Serverless integration and compute platform. Free for developers. | StarPipedreamHQ | 1,269 | /login?return_to=%2FPipedreamHQ%2Fpipedream
+fullstack-course44,4347,331 | Example code for HTML, CSS, and Javascript for Web Developers Coursera Course | Starjhu-ep-coursera | 4,434 | /login?return_to=%2Fjhu-ep-coursera%2Ffullstack-course4
+semantic-release11,406976 | 📦🚀 Fully automated version management and package publishing | Starsemantic-release | 11,406 | /login?return_to=%2Fsemantic-release%2Fsemantic-release
+draft-js19,3952,237 | A React framework for building text editors. | Starfacebook | 19,395 | /login?return_to=%2Ffacebook%2Fdraft-js
+academicpages.github.io3,58711,548 | Github Pages template for academic personal websites, forked from mmistakes/minimal-mistakes | Staracademicpages | 3,587 | /login?return_to=%2Facademicpages%2Facademicpages.github.io |
