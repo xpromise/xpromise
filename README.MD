@@ -2,28 +2,28 @@
 
 | 名称  | 描述  | 作者  | star量 | 地址  |
 | --- | --- | --- | ----- | --- |
-| snapdrop5,460540 | A Progressive Web App for local file sharing | SponsorStarRobinLinus | 5,460 | /sponsors/RobinLinus
-jitsi-meet14,7554,580 | Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application. | Starjitsi | 14,755 | /login?return_to=%2Fjitsi%2Fjitsi-meet
-FE-Interview2,040273 | 前端面试，独有前端面试题详解，前端面试刷题必备，1000+前端面试真题，Html、Css、JavaScript、Vue、React、Node、TypeScript、Webpack、算法、网络与安全、浏览器 | Starlgwebdream | 2,040 | /login?return_to=%2Flgwebdream%2FFE-Interview
-BlueSea40226 | BlueSea，是一个有趣的英语学习扩展程序。支持划词翻译、单词高亮、单词弹幕、记忆曲线复习、词频统计...等功能。 | Starjiangqizheng | 402 | /login?return_to=%2Fjiangqizheng%2FBlueSea
-module-federation-examples663143 | Implementation examples of module federation , by the creators of module federation | Starmodule-federation | 663 | /login?return_to=%2Fmodule-federation%2Fmodule-federation-examples
-material-ui63,60019,547 | React components for faster and simpler web development. Build your own design system, or start with Material Design. | Starmui-org | 63,600 | /login?return_to=%2Fmui-org%2Fmaterial-ui
-33-js-concepts34,1294,076 | 📜 33 concepts every JavaScript developer should know. | Starleonardomso | 34,129 | /login?return_to=%2Fleonardomso%2F33-js-concepts
-lodash47,5435,404 | A modern JavaScript utility library delivering modularity, performance, & extras. | Starlodash | 47,543 | /login?return_to=%2Flodash%2Flodash
-showcase-books-search655 | A site to instantly search 28M books from OpenLibrary using Typesense Search (an open source alternative to Algolia / ElasticSearch) ⚡ 📚 🔍 | Startypesense | 65 | /login?return_to=%2Ftypesense%2Fshowcase-books-search
-slick26,3205,492 | the last carousel you'll ever need | Starkenwheeler | 26,320 | /login?return_to=%2Fkenwheeler%2Fslick
-opencti1,432265 | Open Cyber Threat Intelligence Platform | StarOpenCTI-Platform | 1,432 | /login?return_to=%2FOpenCTI-Platform%2Fopencti
-reactjs-interview-questions9,2352,142 | List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!! | Starsudheerj | 9,235 | /login?return_to=%2Fsudheerj%2Freactjs-interview-questions
-create-react-app84,59820,779 | Set up a modern web app by running one command. | Starfacebook | 84,598 | /login?return_to=%2Ffacebook%2Fcreate-react-app
-Index1,139174 | Metarhia educational program index 📖 | StarHowProgrammingWorks | 1,139 | /login?return_to=%2FHowProgrammingWorks%2FIndex
-fabric.js17,4682,623 | Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser | Starfabricjs | 17,468 | /login?return_to=%2Ffabricjs%2Ffabric.js
-node75,39018,807 | Node.js JavaScript runtime ✨🐢🚀✨ | Starnodejs | 75,390 | /login?return_to=%2Fnodejs%2Fnode
-js.org3,3892,359 | Dedicated to JavaScript and its awesome community since 2015 | Starjs-org | 3,389 | /login?return_to=%2Fjs-org%2Fjs.org
-react-native92,21120,334 | A framework for building native apps with React. | Starfacebook | 92,211 | /login?return_to=%2Ffacebook%2Freact-native
-gatsby48,2249,119 | Build blazing fast, modern apps and websites with React | Stargatsbyjs | 48,224 | /login?return_to=%2Fgatsbyjs%2Fgatsby
-MagicMirror13,4383,382 | MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant. | SponsorStarMichMich | 13,438 | /sponsors/MichMich
-pipedream1,269872 | Serverless integration and compute platform. Free for developers. | StarPipedreamHQ | 1,269 | /login?return_to=%2FPipedreamHQ%2Fpipedream
-fullstack-course44,4347,331 | Example code for HTML, CSS, and Javascript for Web Developers Coursera Course | Starjhu-ep-coursera | 4,434 | /login?return_to=%2Fjhu-ep-coursera%2Ffullstack-course4
-semantic-release11,406976 | 📦🚀 Fully automated version management and package publishing | Starsemantic-release | 11,406 | /login?return_to=%2Fsemantic-release%2Fsemantic-release
-draft-js19,3952,237 | A React framework for building text editors. | Starfacebook | 19,395 | /login?return_to=%2Ffacebook%2Fdraft-js
-academicpages.github.io3,58711,548 | Github Pages template for academic personal websites, forked from mmistakes/minimal-mistakes | Staracademicpages | 3,587 | /login?return_to=%2Facademicpages%2Facademicpages.github.io |
+| strapi | 🚀 Open source Node.js Headless CMS to easily build customisable APIs | Fstrapi | 31,767 | https://github.com/strapi/strapi
+locomotive-scroll | 🛤 Detection of elements in viewport & smooth scrolling with parallax. | Flocomotivemtl | 2,545 | https://github.com/locomotivemtl/locomotive-scroll
+discord.js | A powerful JavaScript library for interacting with the Discord API | Fdiscordjs | 8,577 | https://github.com/discordjs/discord.js
+create-react-app | Set up a modern web app by running one command. | Ffacebook | 84,649 | https://github.com/facebook/create-react-app
+builderbook | Open source web application to learn JS stack: React, Material-UI, Next.js, Node.js, Express.js, Mongoose, MongoDB database. | Fbuilderbook | 2,469 | https://github.com/builderbook/builderbook
+nodebestpractices | ✅ The Node.js best practices list (December 2020) | Fgoldbergyoni | 56,903 | https://github.com/goldbergyoni/nodebestpractices
+quasar | Quasar Framework - Build high-performance VueJS user interfaces in record time | Fquasarframework | 17,089 | https://github.com/quasarframework/quasar
+bigbluebutton | Complete open source web conferencing system. | Fbigbluebutton | 6,020 | https://github.com/bigbluebutton/bigbluebutton
+element3 | A Vue.js 3.0 UI Toolkit for Web. | Fhug-sun | 2,356 | https://github.com/hug-sun/element3
+winston | A logger for just about everything. | Fwinstonjs | 16,510 | https://github.com/winstonjs/winston
+react-native | A framework for building native apps with React. | Ffacebook | 92,257 | https://github.com/facebook/react-native
+carbon | 🖤 Create and share beautiful images of your source code | Fcarbon-app | 26,027 | https://github.com/carbon-app/carbon
+eslint-plugin-import | ESLint plugin with rules that help validate proper imports. | Fbenmosher | 2,966 | https://github.com/benmosher/eslint-plugin-import
+a32nx | The A32NX Project is a community driven open source project to create a free Airbus A320neo in Microsoft Flight Simulator that is as close to reality as possible. It aims to enhance the default A320neo by improving the systems depth and functionality to bring it up to payware-level, all for free. | Fflybywiresim | 2,312 | https://github.com/flybywiresim/a32nx
+elementor | The most advanced frontend drag & drop page builder. Create high-end, pixel perfect websites at record speeds. Any theme, any page, any design. | Felementor | 3,490 | https://github.com/elementor/elementor
+axios | Promise based HTTP client for the browser and node.js | Faxios | 79,926 | https://github.com/axios/axios
+dva | 🌱 React and redux based, lightweight and elm-style framework. (Inspired by elm and choo) | Fdvajs | 15,338 | https://github.com/dvajs/dva
+react-player | A React component for playing a variety of URLs, including file paths, YouTube, Facebook, Twitch, SoundCloud, Streamable, Vimeo, Wistia and DailyMotion | Fcookpete | 4,721 | https://github.com/cookpete/react-player
+Luckysheet | Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source. | Fmengshukeji | 6,759 | https://github.com/mengshukeji/Luckysheet
+js.org | Dedicated to JavaScript and its awesome community since 2015 | Fjs-org | 3,400 | https://github.com/js-org/js.org
+sheetjs | 📗 SheetJS Community Edition -- Spreadsheet Data Toolkit | FSheetJS | 23,901 | https://github.com/SheetJS/sheetjs
+prettier | Prettier is an opinionated code formatter. | Fprettier | 38,411 | https://github.com/prettier/prettier
+vue-admin-template | a vue2.0 minimal admin template | FPanJiaChen | 12,860 | https://github.com/PanJiaChen/vue-admin-template
+bootstrap-datepicker | A datepicker for twitter bootstrap (@twbs) | Fuxsolutions | 12,257 | https://github.com/uxsolutions/bootstrap-datepicker
+sortablejs | Create and reorder lists with drag-and-drop. For use with modern browsers and touch devices | FSortableJS | 21,517 | https://github.com/SortableJS/sortablejs |
