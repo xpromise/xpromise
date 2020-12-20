@@ -2,28 +2,28 @@
 
 | 名称  | 描述  | 作者  | star量 | 地址  |
 | --- | --- | --- | ----- | --- |
-| strapi | 🚀 Open source Node.js Headless CMS to easily build customisable APIs | Fstrapi | 31,767 | https://github.com/strapi/strapi
-locomotive-scroll | 🛤 Detection of elements in viewport & smooth scrolling with parallax. | Flocomotivemtl | 2,545 | https://github.com/locomotivemtl/locomotive-scroll
-discord.js | A powerful JavaScript library for interacting with the Discord API | Fdiscordjs | 8,577 | https://github.com/discordjs/discord.js
-create-react-app | Set up a modern web app by running one command. | Ffacebook | 84,649 | https://github.com/facebook/create-react-app
-builderbook | Open source web application to learn JS stack: React, Material-UI, Next.js, Node.js, Express.js, Mongoose, MongoDB database. | Fbuilderbook | 2,469 | https://github.com/builderbook/builderbook
-nodebestpractices | ✅ The Node.js best practices list (December 2020) | Fgoldbergyoni | 56,903 | https://github.com/goldbergyoni/nodebestpractices
-quasar | Quasar Framework - Build high-performance VueJS user interfaces in record time | Fquasarframework | 17,089 | https://github.com/quasarframework/quasar
-bigbluebutton | Complete open source web conferencing system. | Fbigbluebutton | 6,020 | https://github.com/bigbluebutton/bigbluebutton
-element3 | A Vue.js 3.0 UI Toolkit for Web. | Fhug-sun | 2,356 | https://github.com/hug-sun/element3
-winston | A logger for just about everything. | Fwinstonjs | 16,510 | https://github.com/winstonjs/winston
-react-native | A framework for building native apps with React. | Ffacebook | 92,257 | https://github.com/facebook/react-native
-carbon | 🖤 Create and share beautiful images of your source code | Fcarbon-app | 26,027 | https://github.com/carbon-app/carbon
-eslint-plugin-import | ESLint plugin with rules that help validate proper imports. | Fbenmosher | 2,966 | https://github.com/benmosher/eslint-plugin-import
-a32nx | The A32NX Project is a community driven open source project to create a free Airbus A320neo in Microsoft Flight Simulator that is as close to reality as possible. It aims to enhance the default A320neo by improving the systems depth and functionality to bring it up to payware-level, all for free. | Fflybywiresim | 2,312 | https://github.com/flybywiresim/a32nx
-elementor | The most advanced frontend drag & drop page builder. Create high-end, pixel perfect websites at record speeds. Any theme, any page, any design. | Felementor | 3,490 | https://github.com/elementor/elementor
-axios | Promise based HTTP client for the browser and node.js | Faxios | 79,926 | https://github.com/axios/axios
-dva | 🌱 React and redux based, lightweight and elm-style framework. (Inspired by elm and choo) | Fdvajs | 15,338 | https://github.com/dvajs/dva
-react-player | A React component for playing a variety of URLs, including file paths, YouTube, Facebook, Twitch, SoundCloud, Streamable, Vimeo, Wistia and DailyMotion | Fcookpete | 4,721 | https://github.com/cookpete/react-player
-Luckysheet | Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source. | Fmengshukeji | 6,759 | https://github.com/mengshukeji/Luckysheet
-js.org | Dedicated to JavaScript and its awesome community since 2015 | Fjs-org | 3,400 | https://github.com/js-org/js.org
-sheetjs | 📗 SheetJS Community Edition -- Spreadsheet Data Toolkit | FSheetJS | 23,901 | https://github.com/SheetJS/sheetjs
-prettier | Prettier is an opinionated code formatter. | Fprettier | 38,411 | https://github.com/prettier/prettier
-vue-admin-template | a vue2.0 minimal admin template | FPanJiaChen | 12,860 | https://github.com/PanJiaChen/vue-admin-template
-bootstrap-datepicker | A datepicker for twitter bootstrap (@twbs) | Fuxsolutions | 12,257 | https://github.com/uxsolutions/bootstrap-datepicker
-sortablejs | Create and reorder lists with drag-and-drop. For use with modern browsers and touch devices | FSortableJS | 21,517 | https://github.com/SortableJS/sortablejs |
+| edex-ui25,4741,393 | A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support. | SponsorStarGitSquared | 25,474 | /sponsors/GitSquared
+SpaceX-API7,095569 | 🚀 Open Source REST API for rocket, core, capsule, pad, and launch data | Starr-spacex | 7,095 | /login?return_to=%2Fr-spacex%2FSpaceX-API
+discord.js8,5981,904 | A powerful JavaScript library for interacting with the Discord API | Stardiscordjs | 8,598 | /login?return_to=%2Fdiscordjs%2Fdiscord.js
+github-readme-stats15,7683,152 | ⚡ Dynamically generated stats for your github readmes | Staranuraghazra | 15,768 | /login?return_to=%2Fanuraghazra%2Fgithub-readme-stats
+fullstack-course44,4627,365 | Example code for HTML, CSS, and Javascript for Web Developers Coursera Course | Starjhu-ep-coursera | 4,462 | /login?return_to=%2Fjhu-ep-coursera%2Ffullstack-course4
+strapi32,1154,011 | 🚀 Open source Node.js Headless CMS to easily build customisable APIs | Starstrapi | 32,115 | /login?return_to=%2Fstrapi%2Fstrapi
+AdminLTE37,13415,573 | AdminLTE - Free admin dashboard template based on Bootstrap 4 | StarColorlibHQ | 37,134 | /login?return_to=%2FColorlibHQ%2FAdminLTE
+getting-started558208 | Getting started with Docker | Stardocker | 558 | /login?return_to=%2Fdocker%2Fgetting-started
+ttv-ublock88071 | Blocking ads on that certain streaming website | Starodensc | 880 | /login?return_to=%2Fodensc%2Fttv-ublock
+iptv21,911278 | Collection of 5000+ publicly available IPTV channels from all over the world | Stariptv-org | 21,911 | /login?return_to=%2Fiptv-org%2Fiptv
+nodebestpractices57,1805,507 | ✅ The Node.js best practices list (December 2020) | Stargoldbergyoni | 57,180 | /login?return_to=%2Fgoldbergyoni%2Fnodebestpractices
+metamask-extension4,0811,622 | 🌐 🔌 The MetaMask browser extension enables browsing Ethereum blockchain enabled websites | StarMetaMask | 4,081 | /login?return_to=%2FMetaMask%2Fmetamask-extension
+monkeytype1,115185 | A minimalistic typing test | StarMiodec | 1,115 | /login?return_to=%2FMiodec%2Fmonkeytype
+parcel37,2801,862 | 📦🚀 Blazing fast, zero configuration web application bundler | Starparcel-bundler | 37,280 | /login?return_to=%2Fparcel-bundler%2Fparcel
+hls.js9,0401,817 | JavaScript HLS client using Media Source Extension | Starvideo-dev | 9,040 | /login?return_to=%2Fvideo-dev%2Fhls.js
+express51,2548,562 | Fast, unopinionated, minimalist web framework for node. | Starexpressjs | 51,254 | /login?return_to=%2Fexpressjs%2Fexpress
+webhooks-course2838 |  | StarTwilioDevEd | 28 | /login?return_to=%2FTwilioDevEd%2Fwebhooks-course
+pure21,3562,263 | A set of small, responsive CSS modules that you can use in every web project. | Starpure-css | 21,356 | /login?return_to=%2Fpure-css%2Fpure
+esercizi-di-programmazione-javascript7151,224 | Esercizi di informatica! Impara a programmare, metti alla prova! | StarAlbertoOlla | 715 | /login?return_to=%2FAlbertoOlla%2Fesercizi-di-programmazione-javascript
+ark-funds-monitor4613 | A small React app to monitor ARK funds daily transactions | StarKarlZhu-SE | 46 | /login?return_to=%2FKarlZhu-SE%2Fark-funds-monitor
+webui-aria28,0021,308 | The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser. | Starziahamza | 8,002 | /login?return_to=%2Fziahamza%2Fwebui-aria2
+react-website-v1112265 |  | Starbriancodex | 112 | /login?return_to=%2Fbriancodex%2Freact-website-v1
+Music-bot7684 | A complete code to download for a music bot. Using a module (discord-player). | StarZerioDev | 76 | /login?return_to=%2FZerioDev%2FMusic-bot
+atom53,86015,514 | The hackable text editor | Staratom | 53,860 | /login?return_to=%2Fatom%2Fatom
+10-projects-10-hours592227 |  | Starflorinpop17 | 592 | /login?return_to=%2Fflorinpop17%2F10-projects-10-hours |
