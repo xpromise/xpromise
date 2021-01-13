@@ -2,28 +2,28 @@
 
 | 名称  | 描述  | 作者  | star量 | 地址  |
 | --- | --- | --- | ----- | --- |
-| tech-interview-handbook48,9026,903 | 💯 Materials to help you rock your next coding interview | SponsorStaryangshun | 48,902 | /sponsors/yangshun
-hacker-scripts40,6886,429 | Based on a true story | StarNARKOZ | 40,688 | /login?return_to=%2FNARKOZ%2Fhacker-scripts
-fe-interview15,5072,070 | 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家），3000+道前端面试题全面覆盖，HTML/CSS/JavaScript/Vue/React/Nodejs/TypeScript/ECMAScritpt/Webpack/Jquery/小程序/软技能…… | Starhaizlin | 15,507 | /login?return_to=%2Fhaizlin%2Ffe-interview
-OpenAPI-Specification19,7637,071 | The OpenAPI Specification Repository | StarOAI | 19,763 | /login?return_to=%2FOAI%2FOpenAPI-Specification
-socket.io52,1719,419 | Realtime application framework (Node.JS server) | Starsocketio | 52,171 | /login?return_to=%2Fsocketio%2Fsocket.io
-vue177,76527,753 | 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web. | Starvuejs | 177,765 | /login?return_to=%2Fvuejs%2Fvue
-three.js66,17226,212 | JavaScript 3D library. | SponsorStarmrdoob | 66,172 | /sponsors/mrdoob
-javascript-interview-questions1,958715 | List of 1000 JavaScript Interview Questions | Starsudheerj | 1,958 | /login?return_to=%2Fsudheerj%2Fjavascript-interview-questions
-react-native92,61420,396 | A framework for building native apps with React. | Starfacebook | 92,614 | /login?return_to=%2Ffacebook%2Freact-native
-odoo20,18713,550 | Odoo. Open Source Apps To Grow Your Business. | Starodoo | 20,187 | /login?return_to=%2Fodoo%2Fodoo
-lucky-draw896226 | 年会抽奖程序 | Starvitozyf | 896 | /login?return_to=%2Fvitozyf%2Flucky-draw
-a32nx2,425412 | The A32NX Project is a community driven open source project to create a free Airbus A320neo in Microsoft Flight Simulator that is as close to reality as possible. It aims to enhance the default A320neo by improving the systems depth and functionality to bring it up to payware-level, all for free. | Starflybywiresim | 2,425 | /login?return_to=%2Fflybywiresim%2Fa32nx
-mjd7336 | 京东预约抢购 | Starliuxingguo | 73 | /login?return_to=%2Fliuxingguo%2Fmjd
-fullstack-course44,5957,502 | Example code for HTML, CSS, and Javascript for Web Developers Coursera Course | Starjhu-ep-coursera | 4,595 | /login?return_to=%2Fjhu-ep-coursera%2Ffullstack-course4
-react-native-reanimated4,131501 | React Native's Animated library reimplemented | Starsoftware-mansion | 4,131 | /login?return_to=%2Fsoftware-mansion%2Freact-native-reanimated
-specter-desktop35277 | A desktop GUI for Bitcoin Core optimised to work with hardware wallets | Starcryptoadvance | 352 | /login?return_to=%2Fcryptoadvance%2Fspecter-desktop
-openmtp1,00249 | OpenMTP - Advanced Android File Transfer Application for macOS | Starganeshrvel | 1,002 | /login?return_to=%2Fganeshrvel%2Fopenmtp
-jitsi-meet14,9394,644 | Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application. | Starjitsi | 14,939 | /login?return_to=%2Fjitsi%2Fjitsi-meet
-Ant-Forest1,904388 | 基于Auto.js的蚂蚁森林能量智能收取脚本 Auto.js-based alipay ant forest energy intelligent collection script | StarSuperMonster003 | 1,904 | /login?return_to=%2FSuperMonster003%2FAnt-Forest
-material-table2,767849 | Datatable for React based on material-ui's table with additional features | Starmbrn | 2,767 | /login?return_to=%2Fmbrn%2Fmaterial-table
-graphqurl2,62068 | curl for GraphQL with autocomplete, subscriptions and GraphiQL. Also a dead-simple universal javascript GraphQL client. | Starhasura | 2,620 | /login?return_to=%2Fhasura%2Fgraphqurl
-module-federation-examples736163 | Implementation examples of module federation , by the creators of module federation | Starmodule-federation | 736 | /login?return_to=%2Fmodule-federation%2Fmodule-federation-examples
-v8610,277807 | x86 virtualization in your browser, recompiling x86 to wasm on the fly | Starcopy | 10,277 | /login?return_to=%2Fcopy%2Fv86
-react-virtualized20,7242,552 | React components for efficiently rendering large lists and tabular data | Starbvaughn | 20,724 | /login?return_to=%2Fbvaughn%2Freact-virtualized
-cypress26,3191,563 | Fast, easy and reliable testing for anything that runs in a browser. | Starcypress-io | 26,319 | /login?return_to=%2Fcypress-io%2Fcypress |
+| Signal-Desktop | Signal — Private Messenger for Windows, Mac, and Linux | Fsignalapp | 8,704 | https://github.com/signalapp/Signal-Desktop
+30-Days-Of-React | 30 Days of React challenge is a step by step guide to learn React in 30 days. This challenge needs an intermediate level of HTML, CSS, and JavaScript knowledge. It is recommended to feel good at JavaScript before you start to React. If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS. | FAsabeneh | 3,195 | https://github.com/Asabeneh/30-Days-Of-React
+ccxt | A JavaScript / Python / PHP cryptocurrency trading API with support for more than 120 bitcoin/altcoin exchanges | Fccxt | 16,698 | https://github.com/ccxt/ccxt
+next.js | The React Framework | Fvercel | 60,008 | https://github.com/vercel/next.js
+material-ui | React components for faster and simpler web development. Build your own design system, or start with Material Design. | Fmui-org | 64,269 | https://github.com/mui-org/material-ui
+draft-js | A React framework for building text editors. | Ffacebook | 19,590 | https://github.com/facebook/draft-js
+jitsi-meet | Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application. | Fjitsi | 15,017 | https://github.com/jitsi/jitsi-meet
+cypress | Fast, easy and reliable testing for anything that runs in a browser. | Fcypress-io | 26,435 | https://github.com/cypress-io/cypress
+jdms | 京东抢购秒杀助手 | FYx1aoq1 | 263 | https://github.com/Yx1aoq1/jdms
+lerna | 🐉 A tool for managing JavaScript projects with multiple packages. | Flerna | 26,221 | https://github.com/lerna/lerna
+tailwindcss.com |  | Ftailwindlabs | 680 | https://github.com/tailwindlabs/tailwindcss.com
+hackathon-starter | A boilerplate for Node.js web applications | Fsahat | 31,326 | https://github.com/sahat/hackathon-starter
+react | A declarative, efficient, and flexible JavaScript library for building user interfaces. | Ffacebook | 162,025 | https://github.com/facebook/react
+react-beautiful-dnd | Beautiful and accessible drag and drop for lists with React | Fatlassian | 22,040 | https://github.com/atlassian/react-beautiful-dnd
+reactjs-interview-questions | List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!! | Fsudheerj | 9,728 | https://github.com/sudheerj/reactjs-interview-questions
+webpack | A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff. | Fwebpack | 57,129 | https://github.com/webpack/webpack
+bigbluebutton | Complete open source web conferencing system. | Fbigbluebutton | 6,140 | https://github.com/bigbluebutton/bigbluebutton
+pdf.js | PDF Reader in JavaScript | Fmozilla | 33,551 | https://github.com/mozilla/pdf.js
+chalk | 🖍 Terminal string styling done right | Fchalk | 15,731 | https://github.com/chalk/chalk
+Detox | Gray box end-to-end testing and automation framework for mobile apps | Fwix | 7,453 | https://github.com/wix/Detox
+react-slick | React carousel component | Fakiran | 9,117 | https://github.com/akiran/react-slick
+ninja |  | Fremvst | 294 | https://github.com/remvst/ninja
+google-calendar-crx | Google Calendar for Chrome | Fmanastungare | 736 | https://github.com/manastungare/google-calendar-crx
+slick | the last carousel you'll ever need | Fkenwheeler | 26,381 | https://github.com/kenwheeler/slick
+sequelize | An easy-to-use multi SQL dialect ORM for Node.js | Fsequelize | 23,499 | https://github.com/sequelize/sequelize |
