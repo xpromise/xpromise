@@ -2,28 +2,28 @@
 
 | 名称  | 描述  | 作者  | star量 | 地址  |
 | --- | --- | --- | ----- | --- |
-| faker.js30,1182,573 | generate massive amounts of realistic fake data in Node.js and the browser | SponsorStarMarak | 30,118 | /sponsors/Marak
-DeepLearning-500-questions42,32613,318 | 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06 | Starscutan90 | 42,326 | /login?return_to=%2Fscutan90%2FDeepLearning-500-questions
-cypress26,9311,593 | Fast, easy and reliable testing for anything that runs in a browser. | Starcypress-io | 26,931 | /login?return_to=%2Fcypress-io%2Fcypress
-autopsia-do-tratecov11726 | Código fonte extraído da página do aplicativo TrateCov, publicado pelo Ministério da Saúde em janeiro de 2021 | StarRodrigoMenegat | 117 | /login?return_to=%2FRodrigoMenegat%2Fautopsia-do-tratecov
-nuxt.js33,2922,765 | The Intuitive Vue Framework | SponsorStarnuxt | 33,292 | /sponsors/nuxt
-bootstrap147,34871,874 | The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. | SponsorStartwbs | 147,348 | /sponsors/twbs
-node76,16019,074 | Node.js JavaScript runtime ✨🐢🚀✨ | Starnodejs | 76,160 | /login?return_to=%2Fnodejs%2Fnode
-react-redux20,4932,966 | Official React bindings for Redux | Starreduxjs | 20,493 | /login?return_to=%2Freduxjs%2Freact-redux
-slick26,3955,536 | the last carousel you'll ever need | Starkenwheeler | 26,395 | /login?return_to=%2Fkenwheeler%2Fslick
-reactjs-interview-questions9,9172,317 | List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!! | Starsudheerj | 9,917 | /login?return_to=%2Fsudheerj%2Freactjs-interview-questions
-cypress-example-recipes1,741682 | Various recipes for testing common scenarios with Cypress | Starcypress-io | 1,741 | /login?return_to=%2Fcypress-io%2Fcypress-example-recipes
-jsPDF21,1043,882 | Client-side JavaScript PDF generation for everyone. | StarMrRio | 21,104 | /login?return_to=%2FMrRio%2FjsPDF
-video.js30,5116,697 | Video.js - open source HTML5 & Flash video player | Starvideojs | 30,511 | /login?return_to=%2Fvideojs%2Fvideo.js
-blockly8,6462,931 | The web-based visual programming editor. | Stargoogle | 8,646 | /login?return_to=%2Fgoogle%2Fblockly
-QuantumultX840240 | 同步和更新大佬脚本库，更新懒人配置 | Starw37fhy | 840 | /login?return_to=%2Fw37fhy%2FQuantumultX
-strapi33,3104,083 | 🚀 Open source Node.js Headless CMS to easily build customisable APIs | Starstrapi | 33,310 | /login?return_to=%2Fstrapi%2Fstrapi
-brave-browser8,183837 | Next generation Brave browser for Android, Linux, macOS, Windows. | Starbrave | 8,183 | /login?return_to=%2Fbrave%2Fbrave-browser
-js-ipfs4,962926 | IPFS implementation in JavaScript | Staripfs | 4,962 | /login?return_to=%2Fipfs%2Fjs-ipfs
-carbon3,865888 | A design system built by IBM | Starcarbon-design-system | 3,865 | /login?return_to=%2Fcarbon-design-system%2Fcarbon
-socket.io52,3269,461 | Realtime application framework (Node.JS server) | Starsocketio | 52,326 | /login?return_to=%2Fsocketio%2Fsocket.io
-Functional-Light-JS13,8071,651 | Pragmatic, balanced FP in JavaScript. @FLJSBook on twitter. | SponsorStargetify | 13,807 | /sponsors/getify
-awesome-selfhosted52,8344,163 | A list of Free Software network services and web applications which can be hosted on your own servers | Starawesome-selfhosted | 52,834 | /login?return_to=%2Fawesome-selfhosted%2Fawesome-selfhosted
-thegreatsuspender3,924444 | A chrome extension for suspending all tabs to free up memory | Stargreatsuspender | 3,924 | /login?return_to=%2Fgreatsuspender%2Fthegreatsuspender
-You-Dont-Need-jQuery19,4311,750 | Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript. | Starnefe | 19,431 | /login?return_to=%2Fnefe%2FYou-Dont-Need-jQuery
-exceljs6,950906 | Excel Workbook Manager | Starexceljs | 6,950 | /login?return_to=%2Fexceljs%2Fexceljs |
+| faker.js30,3032,585 | generate massive amounts of realistic fake data in Node.js and the browser | SponsorStarMarak | 30,303 | /sponsors/Marak
+cypress27,1021,599 | Fast, easy and reliable testing for anything that runs in a browser. | Starcypress-io | 27,102 | /login?return_to=%2Fcypress-io%2Fcypress
+bootstrap147,65871,898 | The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. | SponsorStartwbs | 147,658 | /sponsors/twbs
+DeepLearning-500-questions42,41113,329 | 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06 | Starscutan90 | 42,411 | /login?return_to=%2Fscutan90%2FDeepLearning-500-questions
+strapi33,3444,085 | 🚀 Open source Node.js Headless CMS to easily build customisable APIs | Starstrapi | 33,344 | /login?return_to=%2Fstrapi%2Fstrapi
+reactjs-interview-questions9,9352,320 | List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!! | Starsudheerj | 9,935 | /login?return_to=%2Fsudheerj%2Freactjs-interview-questions
+json-server51,7004,865 | Get a full fake REST API with zero coding in less than 30 seconds (seriously) | SponsorStartypicode | 51,700 | /sponsors/typicode
+lighthouse21,5907,551 | Automated auditing, performance metrics, and best practices for the web. | StarGoogleChrome | 21,590 | /login?return_to=%2FGoogleChrome%2Flighthouse
+nuxt.js33,4012,765 | The Intuitive Vue Framework | SponsorStarnuxt | 33,401 | /sponsors/nuxt
+javascript-algorithms93,61815,713 | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings | SponsorStartrekhleb | 93,618 | /sponsors/trekhleb
+appium12,5864,952 | 📱 Automation for iOS, Android, and Windows Apps. | Starappium | 12,586 | /login?return_to=%2Fappium%2Fappium
+covid-vacuna8330 | App para ver el estado de la vacunación COVID-19 en España | Starmidudev | 83 | /login?return_to=%2Fmidudev%2Fcovid-vacuna
+jitsi-meet15,1204,705 | Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application. | Starjitsi | 15,120 | /login?return_to=%2Fjitsi%2Fjitsi-meet
+super-expressive3,943125 | 🦜 Super Expressive is a zero-dependency JavaScript library for building regular expressions in (almost) natural language | Starfrancisrstokes | 3,943 | /login?return_to=%2Ffrancisrstokes%2Fsuper-expressive
+leerob.io1,074234 | ✨ My portfolio built with Next.js, MDX, Tailwind CSS, and Vercel. | Starleerob | 1,074 | /login?return_to=%2Fleerob%2Fleerob.io
+carbon3,870889 | A design system built by IBM | Starcarbon-design-system | 3,870 | /login?return_to=%2Fcarbon-design-system%2Fcarbon
+zigbee2mqtt5,259924 | Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨 | SponsorStarKoenkk | 5,259 | /sponsors/Koenkk
+bypass-paywalls-chrome12,576866 | Bypass Paywalls web browser extension for Chrome and Firefox. | Stariamadamdev | 12,576 | /login?return_to=%2Fiamadamdev%2Fbypass-paywalls-chrome
+Sortable21,7493,175 | Create and reorder lists with drag-and-drop. For use with modern browsers and touch devices | StarSortableJS | 21,749 | /login?return_to=%2FSortableJS%2FSortable
+umami5,417410 | Umami is a simple, fast, website analytics alternative to Google Analytics. | Starmikecao | 5,417 | /login?return_to=%2Fmikecao%2Fumami
+nodebestpractices59,3745,696 | ✅ The Node.js best practices list (January 2021) | Stargoldbergyoni | 59,374 | /login?return_to=%2Fgoldbergyoni%2Fnodebestpractices
+30-seconds-of-code67,5247,445 | Short JavaScript code snippets for all your development needs | Star30-seconds | 67,524 | /login?return_to=%2F30-seconds%2F30-seconds-of-code
+gutenberg6,5162,243 | The Block Editor project for WordPress and beyond. Plugin is available from the official repository. | StarWordPress | 6,516 | /login?return_to=%2FWordPress%2Fgutenberg
+webpack57,2297,515 | A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff. | Starwebpack | 57,229 | /login?return_to=%2Fwebpack%2Fwebpack
+Detox7,4991,432 | Gray box end-to-end testing and automation framework for mobile apps | Starwix | 7,499 | /login?return_to=%2Fwix%2FDetox |
