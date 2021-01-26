@@ -2,28 +2,28 @@
 
 | 名称  | 描述  | 作者  | star量 | 地址  |
 | --- | --- | --- | ----- | --- |
-| faker.js30,3032,585 | generate massive amounts of realistic fake data in Node.js and the browser | SponsorStarMarak | 30,303 | /sponsors/Marak
-cypress27,1021,599 | Fast, easy and reliable testing for anything that runs in a browser. | Starcypress-io | 27,102 | /login?return_to=%2Fcypress-io%2Fcypress
-bootstrap147,65871,898 | The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. | SponsorStartwbs | 147,658 | /sponsors/twbs
-DeepLearning-500-questions42,41113,329 | 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06 | Starscutan90 | 42,411 | /login?return_to=%2Fscutan90%2FDeepLearning-500-questions
-strapi33,3444,085 | 🚀 Open source Node.js Headless CMS to easily build customisable APIs | Starstrapi | 33,344 | /login?return_to=%2Fstrapi%2Fstrapi
-reactjs-interview-questions9,9352,320 | List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!! | Starsudheerj | 9,935 | /login?return_to=%2Fsudheerj%2Freactjs-interview-questions
-json-server51,7004,865 | Get a full fake REST API with zero coding in less than 30 seconds (seriously) | SponsorStartypicode | 51,700 | /sponsors/typicode
-lighthouse21,5907,551 | Automated auditing, performance metrics, and best practices for the web. | StarGoogleChrome | 21,590 | /login?return_to=%2FGoogleChrome%2Flighthouse
-nuxt.js33,4012,765 | The Intuitive Vue Framework | SponsorStarnuxt | 33,401 | /sponsors/nuxt
-javascript-algorithms93,61815,713 | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings | SponsorStartrekhleb | 93,618 | /sponsors/trekhleb
-appium12,5864,952 | 📱 Automation for iOS, Android, and Windows Apps. | Starappium | 12,586 | /login?return_to=%2Fappium%2Fappium
-covid-vacuna8330 | App para ver el estado de la vacunación COVID-19 en España | Starmidudev | 83 | /login?return_to=%2Fmidudev%2Fcovid-vacuna
-jitsi-meet15,1204,705 | Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application. | Starjitsi | 15,120 | /login?return_to=%2Fjitsi%2Fjitsi-meet
-super-expressive3,943125 | 🦜 Super Expressive is a zero-dependency JavaScript library for building regular expressions in (almost) natural language | Starfrancisrstokes | 3,943 | /login?return_to=%2Ffrancisrstokes%2Fsuper-expressive
-leerob.io1,074234 | ✨ My portfolio built with Next.js, MDX, Tailwind CSS, and Vercel. | Starleerob | 1,074 | /login?return_to=%2Fleerob%2Fleerob.io
-carbon3,870889 | A design system built by IBM | Starcarbon-design-system | 3,870 | /login?return_to=%2Fcarbon-design-system%2Fcarbon
-zigbee2mqtt5,259924 | Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨 | SponsorStarKoenkk | 5,259 | /sponsors/Koenkk
-bypass-paywalls-chrome12,576866 | Bypass Paywalls web browser extension for Chrome and Firefox. | Stariamadamdev | 12,576 | /login?return_to=%2Fiamadamdev%2Fbypass-paywalls-chrome
-Sortable21,7493,175 | Create and reorder lists with drag-and-drop. For use with modern browsers and touch devices | StarSortableJS | 21,749 | /login?return_to=%2FSortableJS%2FSortable
-umami5,417410 | Umami is a simple, fast, website analytics alternative to Google Analytics. | Starmikecao | 5,417 | /login?return_to=%2Fmikecao%2Fumami
-nodebestpractices59,3745,696 | ✅ The Node.js best practices list (January 2021) | Stargoldbergyoni | 59,374 | /login?return_to=%2Fgoldbergyoni%2Fnodebestpractices
-30-seconds-of-code67,5247,445 | Short JavaScript code snippets for all your development needs | Star30-seconds | 67,524 | /login?return_to=%2F30-seconds%2F30-seconds-of-code
-gutenberg6,5162,243 | The Block Editor project for WordPress and beyond. Plugin is available from the official repository. | StarWordPress | 6,516 | /login?return_to=%2FWordPress%2Fgutenberg
-webpack57,2297,515 | A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff. | Starwebpack | 57,229 | /login?return_to=%2Fwebpack%2Fwebpack
-Detox7,4991,432 | Gray box end-to-end testing and automation framework for mobile apps | Starwix | 7,499 | /login?return_to=%2Fwix%2FDetox |
+| hush86616 | Noiseless Browsing – Content Blocker for Safari | SponsorStaroblador | 866 | /sponsors/oblador
+30-Days-Of-JavaScript5,9701,221 | 30 days of JavaScript programming challenge is a step by step guide to learn JavaScript programming language in 30 days. This challenge may take up to 100 days, please just follow your own pace. | StarAsabeneh | 5,970 | /login?return_to=%2FAsabeneh%2F30-Days-Of-JavaScript
+next.js60,98610,649 | The React Framework | Starvercel | 60,986 | /login?return_to=%2Fvercel%2Fnext.js
+javascript-algorithms93,88515,759 | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings | SponsorStartrekhleb | 93,885 | /sponsors/trekhleb
+docs2,1169,657 | The open-source repo for docs.github.com | Stargithub | 2,116 | /login?return_to=%2Fgithub%2Fdocs
+junior-recruit-scheduler4,836889 | 주니어 개발자 채용 정보 | Starjojoldu | 4,836 | /login?return_to=%2Fjojoldu%2Fjunior-recruit-scheduler
+discord.js9,0482,018 | A powerful JavaScript library for interacting with the Discord API | Stardiscordjs | 9,048 | /login?return_to=%2Fdiscordjs%2Fdiscord.js
+fullstack-course44,7147,633 | Example code for HTML, CSS, and Javascript for Web Developers Coursera Course | Starjhu-ep-coursera | 4,714 | /login?return_to=%2Fjhu-ep-coursera%2Ffullstack-course4
+volt-react-dashboard995 | A React.js admin dashboard template and UI library based on Bootstrap 5 | Starthemesberg | 99 | /login?return_to=%2Fthemesberg%2Fvolt-react-dashboard
+react162,71932,517 | A declarative, efficient, and flexible JavaScript library for building user interfaces. | Starfacebook | 162,719 | /login?return_to=%2Ffacebook%2Freact
+social-analyzer3,379167 | API, CLI & Web App for analyzing & finding a person profile across 300+ social media websites (Detections are updated regularly) | SponsorStarqeeqbox | 3,379 | /sponsors/qeeqbox
+parse-server18,1894,426 | API server module for Node/Express | SponsorStarparse-community | 18,189 | /sponsors/parse-community
+react-big-calendar4,5551,588 | gcal/outlook like calendar component | Starjquense | 4,555 | /login?return_to=%2Fjquense%2Freact-big-calendar
+proshop_mern851398 | Shopping cart built with MERN & Redux | Starbradtraversy | 851 | /login?return_to=%2Fbradtraversy%2Fproshop_mern
+mebm49726 | zero-dependency browser-based video editor | Starbwasti | 497 | /login?return_to=%2Fbwasti%2Fmebm
+react-pdf8,516596 | 📄 Create PDF files using React | Stardiegomura | 8,516 | /login?return_to=%2Fdiegomura%2Freact-pdf
+chrome-extensions-samples7,5384,738 | Chrome Extensions Samples | StarGoogleChrome | 7,538 | /login?return_to=%2FGoogleChrome%2Fchrome-extensions-samples
+Windows-universal-samples7,9927,627 | API samples for the Universal Windows Platform. | Starmicrosoft | 7,992 | /login?return_to=%2Fmicrosoft%2FWindows-universal-samples
+free-font49623 | 大概是2020年最全的免费可商用字体，这里收录的商免字体都能找到明确的授权出处，可以放心使用，持续更新中... | Starwordshub | 496 | /login?return_to=%2Fwordshub%2Ffree-font
+react-native-firebase8,7441,690 | 🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services. | Starinvertase | 8,744 | /login?return_to=%2Finvertase%2Freact-native-firebase
+eslint-plugin-vue3,305483 | Official ESLint plugin for Vue.js | Starvuejs | 3,305 | /login?return_to=%2Fvuejs%2Feslint-plugin-vue
+monkeytype1,463253 | A minimalistic typing test | StarMiodec | 1,463 | /login?return_to=%2FMiodec%2Fmonkeytype
+vue178,66127,978 | 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web. | Starvuejs | 178,661 | /login?return_to=%2Fvuejs%2Fvue
+three.js66,70126,421 | JavaScript 3D library. | SponsorStarmrdoob | 66,701 | /sponsors/mrdoob
+react-beautiful-dnd22,2091,573 | Beautiful and accessible drag and drop for lists with React | Staratlassian | 22,209 | /login?return_to=%2Fatlassian%2Freact-beautiful-dnd |
