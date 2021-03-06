@@ -2,28 +2,28 @@
 
 | 名称  | 描述  | 作者  | star量 | 地址  |
 | --- | --- | --- | ----- | --- |
-| OpenScan | All you need to build your 3D Scanner | FOpenScanEu | 390 | https://github.com/OpenScanEu/OpenScan
-javascript | JavaScript Style Guide | Fairbnb | 105,784 | https://github.com/airbnb/javascript
-appium | 📱 Automation for iOS, Android, and Windows Apps. | Fappium | 13,171 | https://github.com/appium/appium
-venom | Venom the more complete javascript library for Whatsapp, 100% Open Source. | Forkestral | 1,205 | https://github.com/orkestral/venom
-budibase | Budibase is a free and open-source development platform that helps you build internal apps on your own infrastructure, in minutes, not months 🚀 | FBudibase | 2,281 | https://github.com/Budibase/budibase
-engineer-manager | A list of engineering manager resource links. | Fryanburgess | 5,051 | https://github.com/ryanburgess/engineer-manager
-bookshelf | Build a ReactJS App workshop | Fkentcdodds | 1,743 | https://github.com/kentcdodds/bookshelf
-glci | 🦊 Test your Gitlab CI Pipelines changes locally using Docker. | Fmdubourg001 | 377 | https://github.com/mdubourg001/glci
-carbon | A design system built by IBM | Fcarbon-design-system | 3,997 | https://github.com/carbon-design-system/carbon
-kubernetes-external-secrets | Integrate external secret management systems with Kubernetes | Fexternal-secrets | 1,565 | https://github.com/external-secrets/kubernetes-external-secrets
-react-native | A framework for building native apps with React. | Ffacebook | 93,581 | https://github.com/facebook/react-native
-Damn-Vulnerable-GraphQL-Application | Damn Vulnerable GraphQL Application is an intentionally vulnerable implementation of Facebook's GraphQL technology, to learn and practice GraphQL Security. | Fdolevf | 485 | https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application
-FE-Interview | 🔥🔥🔥 前端面试，独有前端面试题详解，前端面试刷题必备，1000+前端面试真题，Html、Css、JavaScript、Vue、React、Node、TypeScript、Webpack、算法、网络与安全、浏览器 | Flgwebdream | 2,570 | https://github.com/lgwebdream/FE-Interview
-ethereumbook | Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood | Fethereumbook | 7,720 | https://github.com/ethereumbook/ethereumbook
-AutoSignMachine | 一个自动执行任务的工具，通过它可以实现账号自动签到，自动领取权益等功能，帮助我们轻松升级 | FGitHub-Xzhi | 43 | https://github.com/GitHub-Xzhi/AutoSignMachine
-Sortable | Create and reorder lists with drag-and-drop. For use with modern browsers and touch devices | FSortableJS | 21,986 | https://github.com/SortableJS/Sortable
-cypress | Fast, easy and reliable testing for anything that runs in a browser. | Fcypress-io | 27,884 | https://github.com/cypress-io/cypress
-grapesjs | Free and Open source Web Builder Framework. Next generation tool for building templates without coding | Fartf | 12,627 | https://github.com/artf/grapesjs
-reactjs-interview-questions | List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!! | Fsudheerj | 10,559 | https://github.com/sudheerj/reactjs-interview-questions
-swiper | Most modern mobile touch slider with hardware accelerated transitions | Fnolimits4web | 26,352 | https://github.com/nolimits4web/swiper
-react-router | Declarative routing for React | FReactTraining | 42,726 | https://github.com/ReactTraining/react-router
-spl-token-wallet |  | Fproject-serum | 77 | https://github.com/project-serum/spl-token-wallet
-amphtml | The AMP web component framework. | Fampproject | 14,024 | https://github.com/ampproject/amphtml
-pdfmake | Client/server side PDF printing in pure JavaScript | Fbpampuch | 8,948 | https://github.com/bpampuch/pdfmake
-relay | Relay is a JavaScript framework for building data-driven React applications. | Ffacebook | 15,395 | https://github.com/facebook/relay |
+| javascript-algorithms98,78016,419 | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings | SponsorStartrekhleb | 98,780 | /sponsors/trekhleb
+JavaScriptONLY25967 | Knowledge Resource of core fundamentals of JavaScript explained in simple way! | Starsohamsshah | 259 | /login?return_to=%2Fsohamsshah%2FJavaScriptONLY
+react-select22,0863,657 | The Select Component for React.js | StarJedWatson | 22,086 | /login?return_to=%2FJedWatson%2Freact-select
+carbon4,019919 | A design system built by IBM | Starcarbon-design-system | 4,019 | /login?return_to=%2Fcarbon-design-system%2Fcarbon
+brackets33,1126,956 | An open source code editor for the web, written in JavaScript, HTML and CSS. | Staradobe | 33,112 | /login?return_to=%2Fadobe%2Fbrackets
+generator-jhipster18,0683,559 | JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures. | Starjhipster | 18,068 | /login?return_to=%2Fjhipster%2Fgenerator-jhipster
+chinese-independent-blogs6,273890 | 中文独立博客列表 | Startimqian | 6,273 | /login?return_to=%2Ftimqian%2Fchinese-independent-blogs
+material-ui65,76320,823 | Material-UI is a simple and customizable component library to build faster, beautiful, and more accessible React applications. Follow your own design system, or start with Material Design. | Starmui-org | 65,763 | /login?return_to=%2Fmui-org%2Fmaterial-ui
+engineer-manager5,198315 | A list of engineering manager resource links. | Starryanburgess | 5,198 | /login?return_to=%2Fryanburgess%2Fengineer-manager
+Web-Dev-For-Beginners16,8982,888 | 24 Lessons, 12 Weeks, Get Started as a Web Developer | Starmicrosoft | 16,898 | /login?return_to=%2Fmicrosoft%2FWeb-Dev-For-Beginners
+realworld55,0654,872 | "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅 | Stargothinkster | 55,065 | /login?return_to=%2Fgothinkster%2Frealworld
+next.js63,90211,401 | The React Framework | Starvercel | 63,902 | /login?return_to=%2Fvercel%2Fnext.js
+cname-trackers1659 | This repository contains a list of popular CNAME trackers | StarAdguardTeam | 165 | /login?return_to=%2FAdguardTeam%2Fcname-trackers
+front-end-interview-handbook28,0924,043 | 🕸 No-bullshit answers to the famous h5bp "Front-end Job Interview Questions" | SponsorStaryangshun | 28,092 | /sponsors/yangshun
+react164,69133,040 | A declarative, efficient, and flexible JavaScript library for building user interfaces. | Starfacebook | 164,691 | /login?return_to=%2Ffacebook%2Freact
+React-Total37754 | Ресурс для изучения React.js и связанных с ним технологий на русском языке | Starharryheman | 377 | /login?return_to=%2Fharryheman%2FReact-Total
+node-oidc-provider1,545401 | OpenID Certified™ OAuth 2.0 Authorization Server implementation for Node.js | SponsorStarpanva | 1,545 | /sponsors/panva
+d396,02322,513 | Bring data to life with SVG, Canvas and HTML. 📊📈🎉 | Stard3 | 96,023 | /login?return_to=%2Fd3%2Fd3
+cypress-example-recipes1,828717 | Various recipes for testing common scenarios with Cypress | Starcypress-io | 1,828 | /login?return_to=%2Fcypress-io%2Fcypress-example-recipes
+swiper26,4529,379 | Most modern mobile touch slider with hardware accelerated transitions | Starnolimits4web | 26,452 | /login?return_to=%2Fnolimits4web%2Fswiper
+bootstrap-datepicker@twbs12,3206,057 | A datepicker for twitter bootstrap (@twbs) | Staruxsolutions | 12,320 | /login?return_to=%2Fuxsolutions%2Fbootstrap-datepicker
+html5-boilerplate49,20011,378 | A professional front-end template for building fast, robust, and adaptable web apps or sites. | Starh5bp | 49,200 | /login?return_to=%2Fh5bp%2Fhtml5-boilerplate
+tiptap9,010952 | A renderless rich-text editor for Vue.js | SponsorStarueberdosis | 9,010 | /sponsors/ueberdosis
+react-native-reanimated4,401539 | React Native's Animated library reimplemented | Starsoftware-mansion | 4,401 | /login?return_to=%2Fsoftware-mansion%2Freact-native-reanimated
+gatsby49,2969,349 | Build blazing fast, modern apps and websites with React | Stargatsbyjs | 49,296 | /login?return_to=%2Fgatsbyjs%2Fgatsby |
