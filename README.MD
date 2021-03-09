@@ -2,28 +2,28 @@
 
 | 名称  | 描述  | 作者  | star量 | 地址  |
 | --- | --- | --- | ----- | --- |
-| javascript-algorithms98,78016,419 | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings | SponsorStartrekhleb | 98,780 | /sponsors/trekhleb
-JavaScriptONLY25967 | Knowledge Resource of core fundamentals of JavaScript explained in simple way! | Starsohamsshah | 259 | /login?return_to=%2Fsohamsshah%2FJavaScriptONLY
-react-select22,0863,657 | The Select Component for React.js | StarJedWatson | 22,086 | /login?return_to=%2FJedWatson%2Freact-select
-carbon4,019919 | A design system built by IBM | Starcarbon-design-system | 4,019 | /login?return_to=%2Fcarbon-design-system%2Fcarbon
-brackets33,1126,956 | An open source code editor for the web, written in JavaScript, HTML and CSS. | Staradobe | 33,112 | /login?return_to=%2Fadobe%2Fbrackets
-generator-jhipster18,0683,559 | JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures. | Starjhipster | 18,068 | /login?return_to=%2Fjhipster%2Fgenerator-jhipster
-chinese-independent-blogs6,273890 | 中文独立博客列表 | Startimqian | 6,273 | /login?return_to=%2Ftimqian%2Fchinese-independent-blogs
-material-ui65,76320,823 | Material-UI is a simple and customizable component library to build faster, beautiful, and more accessible React applications. Follow your own design system, or start with Material Design. | Starmui-org | 65,763 | /login?return_to=%2Fmui-org%2Fmaterial-ui
-engineer-manager5,198315 | A list of engineering manager resource links. | Starryanburgess | 5,198 | /login?return_to=%2Fryanburgess%2Fengineer-manager
-Web-Dev-For-Beginners16,8982,888 | 24 Lessons, 12 Weeks, Get Started as a Web Developer | Starmicrosoft | 16,898 | /login?return_to=%2Fmicrosoft%2FWeb-Dev-For-Beginners
-realworld55,0654,872 | "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅 | Stargothinkster | 55,065 | /login?return_to=%2Fgothinkster%2Frealworld
-next.js63,90211,401 | The React Framework | Starvercel | 63,902 | /login?return_to=%2Fvercel%2Fnext.js
-cname-trackers1659 | This repository contains a list of popular CNAME trackers | StarAdguardTeam | 165 | /login?return_to=%2FAdguardTeam%2Fcname-trackers
-front-end-interview-handbook28,0924,043 | 🕸 No-bullshit answers to the famous h5bp "Front-end Job Interview Questions" | SponsorStaryangshun | 28,092 | /sponsors/yangshun
-react164,69133,040 | A declarative, efficient, and flexible JavaScript library for building user interfaces. | Starfacebook | 164,691 | /login?return_to=%2Ffacebook%2Freact
-React-Total37754 | Ресурс для изучения React.js и связанных с ним технологий на русском языке | Starharryheman | 377 | /login?return_to=%2Fharryheman%2FReact-Total
-node-oidc-provider1,545401 | OpenID Certified™ OAuth 2.0 Authorization Server implementation for Node.js | SponsorStarpanva | 1,545 | /sponsors/panva
-d396,02322,513 | Bring data to life with SVG, Canvas and HTML. 📊📈🎉 | Stard3 | 96,023 | /login?return_to=%2Fd3%2Fd3
-cypress-example-recipes1,828717 | Various recipes for testing common scenarios with Cypress | Starcypress-io | 1,828 | /login?return_to=%2Fcypress-io%2Fcypress-example-recipes
-swiper26,4529,379 | Most modern mobile touch slider with hardware accelerated transitions | Starnolimits4web | 26,452 | /login?return_to=%2Fnolimits4web%2Fswiper
-bootstrap-datepicker@twbs12,3206,057 | A datepicker for twitter bootstrap (@twbs) | Staruxsolutions | 12,320 | /login?return_to=%2Fuxsolutions%2Fbootstrap-datepicker
-html5-boilerplate49,20011,378 | A professional front-end template for building fast, robust, and adaptable web apps or sites. | Starh5bp | 49,200 | /login?return_to=%2Fh5bp%2Fhtml5-boilerplate
-tiptap9,010952 | A renderless rich-text editor for Vue.js | SponsorStarueberdosis | 9,010 | /sponsors/ueberdosis
-react-native-reanimated4,401539 | React Native's Animated library reimplemented | Starsoftware-mansion | 4,401 | /login?return_to=%2Fsoftware-mansion%2Freact-native-reanimated
-gatsby49,2969,349 | Build blazing fast, modern apps and websites with React | Stargatsbyjs | 49,296 | /login?return_to=%2Fgatsbyjs%2Fgatsby |
+| edex-ui29,4161,577 | A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support. | SponsorStarGitSquared | 29,416 | /sponsors/GitSquared
+YesPlayMusic5,701530 | 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux | Starqier222 | 5,701 | /login?return_to=%2Fqier222%2FYesPlayMusic
+Javascript9,1531,734 | A repository for All algorithms implemented in Javascript (for educational purposes only) | StarTheAlgorithms | 9,153 | /login?return_to=%2FTheAlgorithms%2FJavascript
+Superalgos504767 | Free, open-source crypto trading bot, automated bitcoin / cryptocurrency trading software, algorithmic trading bots. Visually design your crypto trading bot, leveraging an integrated charting system, data-mining, backtesting, paper trading, and multi-server crypto bot deployments. | StarSuperalgos | 504 | /login?return_to=%2FSuperalgos%2FSuperalgos
+Google-Assistant-Unofficial-Desktop-Client1,652105 | A cross-platform unofficial Google Assistant Client for Desktop (powered by Google Assistant SDK) | StarMelvin-Abraham | 1,652 | /login?return_to=%2FMelvin-Abraham%2FGoogle-Assistant-Unofficial-Desktop-Client
+openmct8,981896 | A web based mission control framework. | Starnasa | 8,981 | /login?return_to=%2Fnasa%2Fopenmct
+flutter-in-action8,0861,675 | 《Flutter实战》电子书 | Starflutterchina | 8,086 | /login?return_to=%2Fflutterchina%2Fflutter-in-action
+social-analyzer7,237394 | API, CLI & Web App for analyzing & finding a person's profile across 350+ social media \ websites (Detections are updated regularly) | SponsorStarqeeqbox | 7,237 | /sponsors/qeeqbox
+Daily-Interview-Question22,3092,813 | 我是木易杨，公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。 | StarAdvanced-Frontend | 22,309 | /login?return_to=%2FAdvanced-Frontend%2FDaily-Interview-Question
+tech-interview-handbook50,2447,128 | 💯 Materials to help you rock your next coding interview | SponsorStaryangshun | 50,244 | /sponsors/yangshun
+whereami.js2328 | Node.js module to predict indoor location using machine learning and WiFi information 📶 | Starcharliegerard | 232 | /login?return_to=%2Fcharliegerard%2Fwhereami.js
+NodeBB11,7442,352 | Node.js based forum software built for the modern web | StarNodeBB | 11,744 | /login?return_to=%2FNodeBB%2FNodeBB
+bigbluebutton6,4125,396 | Complete open source web conferencing system. | Starbigbluebutton | 6,412 | /login?return_to=%2Fbigbluebutton%2Fbigbluebutton
+mocha20,3282,795 | ☕️ simple, flexible, fun javascript test framework for node.js & the browser | Starmochajs | 20,328 | /login?return_to=%2Fmochajs%2Fmocha
+PhotoSwipe20,8243,144 | JavaScript image gallery for mobile and desktop, modular, framework independent | Stardimsemenov | 20,824 | /login?return_to=%2Fdimsemenov%2FPhotoSwipe
+engineer-manager5,264317 | A list of engineering manager resource links. | Starryanburgess | 5,264 | /login?return_to=%2Fryanburgess%2Fengineer-manager
+video.js30,8776,755 | Video.js - open source HTML5 & Flash video player | Starvideojs | 30,877 | /login?return_to=%2Fvideojs%2Fvideo.js
+material-table2,875898 | Datatable for React based on material-ui's table with additional features | Starmbrn | 2,875 | /login?return_to=%2Fmbrn%2Fmaterial-table
+opensource.guide7,9379,539 | 📚 Community guides for open source creators | Stargithub | 7,937 | /login?return_to=%2Fgithub%2Fopensource.guide
+react-native93,82620,598 | A framework for building native apps with React. | Starfacebook | 93,826 | /login?return_to=%2Ffacebook%2Freact-native
+kubernetes-external-secrets1,602241 | Integrate external secret management systems with Kubernetes | Starexternal-secrets | 1,602 | /login?return_to=%2Fexternal-secrets%2Fkubernetes-external-secrets
+web-minecraft46920 | Minecraft client written in Javascript | Starmichaljaz | 469 | /login?return_to=%2Fmichaljaz%2Fweb-minecraft
+fullstack-course45,0627,880 | Example code for HTML, CSS, and Javascript for Web Developers Coursera Course | Starjhu-ep-coursera | 5,062 | /login?return_to=%2Fjhu-ep-coursera%2Ffullstack-course4
+keystone3,604472 | The most powerful headless CMS for Node.js — built with GraphQL and React | Starkeystonejs | 3,604 | /login?return_to=%2Fkeystonejs%2Fkeystone
+opensea-creatures132128 | Example non-fungible collectible, to demonstrate OpenSea integration | StarProjectOpenSea | 132 | /login?return_to=%2FProjectOpenSea%2Fopensea-creatures |
