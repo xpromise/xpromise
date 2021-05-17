@@ -2,28 +2,28 @@
 
 | 名称  | 描述  | 作者  | star量 | 地址  |
 | --- | --- | --- | ----- | --- |
-| javascript-algorithms105,34317,445 | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings | SponsorStartrekhleb |  | /sponsors/trekhleb
-winbox1,57327 | WinBox is a professional HTML5 window manager for the web: lightweight, outstanding performance, no dependencies, fully customizable, open source! | Starnextapps-de |  | /login?return_to=%2Fnextapps-de%2Fwinbox
-binance-trading-bot1,364158 | Automated Binance trading bot - Buy low/Sell high with stop loss limit/Trade multiple cryptocurrencies | Starchrisleekr |  | /login?return_to=%2Fchrisleekr%2Fbinance-trading-bot
-clean-code-javascript50,9146,257 | 🛁 Clean Code concepts adapted for JavaScript | Starryanmcdermott |  | /login?return_to=%2Fryanmcdermott%2Fclean-code-javascript
-discord.js11,1792,332 | A powerful JavaScript library for interacting with the Discord API | Stardiscordjs |  | /login?return_to=%2Fdiscordjs%2Fdiscord.js
-nodebestpractices64,4936,324 | ✅ The Node.js best practices list (April 2021) | Stargoldbergyoni |  | /login?return_to=%2Fgoldbergyoni%2Fnodebestpractices
-nginxconfig.io11,800786 | ⚙️ NGINX config generator on steroids 💉 | Stardigitalocean |  | /login?return_to=%2Fdigitalocean%2Fnginxconfig.io
-grapesjs13,0722,471 | Free and Open source Web Builder Framework. Next generation tool for building templates without coding | Starartf |  | /login?return_to=%2Fartf%2Fgrapesjs
-samples10,4794,755 | WebRTC Web demos and samples | Starwebrtc |  | /login?return_to=%2Fwebrtc%2Fsamples
-macintosh.js7,380305 | 🖥 A virtual Apple Macintosh with System 8, running in Electron. I'm sorry. | Starfelixrieseberg |  | /login?return_to=%2Ffelixrieseberg%2Fmacintosh.js
-AI-Expert-Roadmap10,288918 | Roadmap to becoming an Artificial Intelligence Expert in 2021 | StarAMAI-GmbH |  | /login?return_to=%2FAMAI-GmbH%2FAI-Expert-Roadmap
-tailwind-dashboard-template25018 | Mosaic Lite is a free admin dashboard template built on top of Tailwind CSS and fully coded in React. Made by | Starcruip |  | /login?return_to=%2Fcruip%2Ftailwind-dashboard-template
-drawio23,0124,696 | Source to app.diagrams.net | SponsorStarjgraph |  | /sponsors/jgraph
-OpenAPI-Specification20,6387,399 | The OpenAPI Specification Repository | StarOAI |  | /login?return_to=%2FOAI%2FOpenAPI-Specification
-axios83,8058,125 | Promise based HTTP client for the browser and node.js | Staraxios |  | /login?return_to=%2Faxios%2Faxios
-React-Total823144 | Ресурс для изучения React.js и связанных с ним технологий на русском языке | Starharryheman |  | /login?return_to=%2Fharryheman%2FReact-Total
-kit3,169196 | A monorepo for SvelteKit and friends | Starsveltejs |  | /login?return_to=%2Fsveltejs%2Fkit
-pdf.js34,7088,078 | PDF Reader in JavaScript | Starmozilla |  | /login?return_to=%2Fmozilla%2Fpdf.js
-bigbluebutton6,6265,473 | Complete open source web conferencing system. | Starbigbluebutton |  | /login?return_to=%2Fbigbluebutton%2Fbigbluebutton
-fucking-frontend1,052108 | 干爆前端。一网打尽前端面试、学习路径、优秀好文等各类内容，帮助大家一年内拿到期望的 offer！ | StarKieSun |  | /login?return_to=%2FKieSun%2Ffucking-frontend
-material-ui67,87221,665 | Material-UI is a simple and customizable component library to build faster, beautiful, and more accessible React applications. Follow your own design system, or start with Material Design. | Starmui-org |  | /login?return_to=%2Fmui-org%2Fmaterial-ui
-Sortable22,3413,232 | Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery required. | StarSortableJS |  | /login?return_to=%2FSortableJS%2FSortable
-microsoft-authentication-library-for-js1,6791,189 | Microsoft Authentication Library (MSAL) for JS | StarAzureAD |  | /login?return_to=%2FAzureAD%2Fmicrosoft-authentication-library-for-js
-longzhuzhu11966 |  | Starnianyuguai |  | /login?return_to=%2Fnianyuguai%2Flongzhuzhu
-Modernizr24,8823,034 | Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user’s browser. | StarModernizr |  | /login?return_to=%2FModernizr%2FModernizr |
+| edex-ui31,1571,696 | A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support. | SponsorStarGitSquared |  | /sponsors/GitSquared
+eattheblocks935869 | Source code for Eat The Blocks, a screencast for Ethereum Dapp Developers | Starjklepatch |  | /login?return_to=%2Fjklepatch%2Feattheblocks
+covid19india-react5,7953,210 | Tracking the impact of COVID-19 in India | Starcovid19india |  | /login?return_to=%2Fcovid19india%2Fcovid19india-react
+html5-boilerplate50,33611,553 | A professional front-end template for building fast, robust, and adaptable web apps or sites. | Starh5bp |  | /login?return_to=%2Fh5bp%2Fhtml5-boilerplate
+instagramhttps: | Subscribe to my YouTube channel: https://bit.ly/CognitiveSurge - Building Instagram Using React | Starkarlhadwen |  | /login?return_to=%2Fkarlhadwen%2Finstagram
+privacybot31312 |  | Starprivacybot-berkeley |  | /login?return_to=%2Fprivacybot-berkeley%2Fprivacybot
+project_mern_memories1,128456 | This is a code repository for the corresponding video tutorial. Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called "Memories" and it is a simple social media app that allows users to post interesting events that happened in their lives. | Staradrianhajdin |  | /login?return_to=%2Fadrianhajdin%2Fproject_mern_memories
+spectrum9,8631,102 | Simple, powerful online communities. | Starwithspectrum |  | /login?return_to=%2Fwithspectrum%2Fspectrum
+Motrix26,0173,202 | A full-featured download manager. | Staragalwood |  | /login?return_to=%2Fagalwood%2FMotrix
+cypress31,1611,785 | Fast, easy and reliable testing for anything that runs in a browser. | Starcypress-io |  | /login?return_to=%2Fcypress-io%2Fcypress
+freeCodeCamp324,15225,816 | freeCodeCamp.org's open source codebase and curriculum. Learn to code for free. | SponsorStarfreeCodeCamp |  | /sponsors/freeCodeCamp
+cowin-vaccine-booking3921 | The app enables to track availability and automatically book a vaccination slot. This is based on Cowin API and supports the recently added Captcha code of Cowin. | Staryashwanthm |  | /login?return_to=%2Fyashwanthm%2Fcowin-vaccine-booking
+openzeppelin-contracts10,4414,825 | OpenZeppelin Contracts is a library for secure smart contract development. | StarOpenZeppelin |  | /login?return_to=%2FOpenZeppelin%2Fopenzeppelin-contracts
+jira_clone6,985883 | A simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress. | Staroldboyxx |  | /login?return_to=%2Foldboyxx%2Fjira_clone
+node-express-course203129 |  | Starjohn-smilga |  | /login?return_to=%2Fjohn-smilga%2Fnode-express-course
+vaxbot576 | walmart and shoppers vaccine hunter | Starwesbos |  | /login?return_to=%2Fwesbos%2Fvaxbot
+docs4,08417,045 | The open-source repo for docs.github.com | Stargithub |  | /login?return_to=%2Fgithub%2Fdocs
+citr-v6-project10155 | Project files for the Complete Intro to React v6, as taught for Frontend Masters | Starbtholt |  | /login?return_to=%2Fbtholt%2Fcitr-v6-project
+30-Days-Of-JavaScript8,1441,698 | 30 days of JavaScript programming challenge is a step by step guide to learn JavaScript programming language in 30 days. This challenge may take up to 100 days, please just follow your own pace. | StarAsabeneh |  | /login?return_to=%2FAsabeneh%2F30-Days-Of-JavaScript
+iptv31,9211,743 | Collection of publicly available IPTV channels from all over the world | Stariptv-org |  | /login?return_to=%2Fiptv-org%2Fiptv
+crypto-trading-bot1,394485 | Cryptocurrency trading bot in javascript for Bitfinex, Bitmex, Binance, FTX, Bybit ... (public edition) | SponsorStarHaehnchen |  | /sponsors/Haehnchen
+ethereumbook8,5872,321 | Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood | Starethereumbook |  | /login?return_to=%2Fethereumbook%2Fethereumbook
+kit3,396227 | A monorepo for SvelteKit and friends | Starsveltejs |  | /login?return_to=%2Fsveltejs%2Fkit
+prism9,2101,078 | Lightweight, robust, elegant syntax highlighting. | StarPrismJS |  | /login?return_to=%2FPrismJS%2Fprism
+hicetnunc399114 | hicetnunc UI/UX | Starhicetnunc2000 |  | /login?return_to=%2Fhicetnunc2000%2Fhicetnunc |
