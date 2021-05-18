@@ -2,28 +2,28 @@
 
 | 名称  | 描述  | 作者  | star量 | 地址  |
 | --- | --- | --- | ----- | --- |
-| edex-ui31,1571,696 | A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support. | SponsorStarGitSquared |  | /sponsors/GitSquared
-eattheblocks935869 | Source code for Eat The Blocks, a screencast for Ethereum Dapp Developers | Starjklepatch |  | /login?return_to=%2Fjklepatch%2Feattheblocks
-covid19india-react5,7953,210 | Tracking the impact of COVID-19 in India | Starcovid19india |  | /login?return_to=%2Fcovid19india%2Fcovid19india-react
-html5-boilerplate50,33611,553 | A professional front-end template for building fast, robust, and adaptable web apps or sites. | Starh5bp |  | /login?return_to=%2Fh5bp%2Fhtml5-boilerplate
-instagramhttps: | Subscribe to my YouTube channel: https://bit.ly/CognitiveSurge - Building Instagram Using React | Starkarlhadwen |  | /login?return_to=%2Fkarlhadwen%2Finstagram
-privacybot31312 |  | Starprivacybot-berkeley |  | /login?return_to=%2Fprivacybot-berkeley%2Fprivacybot
-project_mern_memories1,128456 | This is a code repository for the corresponding video tutorial. Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called "Memories" and it is a simple social media app that allows users to post interesting events that happened in their lives. | Staradrianhajdin |  | /login?return_to=%2Fadrianhajdin%2Fproject_mern_memories
-spectrum9,8631,102 | Simple, powerful online communities. | Starwithspectrum |  | /login?return_to=%2Fwithspectrum%2Fspectrum
-Motrix26,0173,202 | A full-featured download manager. | Staragalwood |  | /login?return_to=%2Fagalwood%2FMotrix
-cypress31,1611,785 | Fast, easy and reliable testing for anything that runs in a browser. | Starcypress-io |  | /login?return_to=%2Fcypress-io%2Fcypress
-freeCodeCamp324,15225,816 | freeCodeCamp.org's open source codebase and curriculum. Learn to code for free. | SponsorStarfreeCodeCamp |  | /sponsors/freeCodeCamp
-cowin-vaccine-booking3921 | The app enables to track availability and automatically book a vaccination slot. This is based on Cowin API and supports the recently added Captcha code of Cowin. | Staryashwanthm |  | /login?return_to=%2Fyashwanthm%2Fcowin-vaccine-booking
-openzeppelin-contracts10,4414,825 | OpenZeppelin Contracts is a library for secure smart contract development. | StarOpenZeppelin |  | /login?return_to=%2FOpenZeppelin%2Fopenzeppelin-contracts
-jira_clone6,985883 | A simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress. | Staroldboyxx |  | /login?return_to=%2Foldboyxx%2Fjira_clone
-node-express-course203129 |  | Starjohn-smilga |  | /login?return_to=%2Fjohn-smilga%2Fnode-express-course
-vaxbot576 | walmart and shoppers vaccine hunter | Starwesbos |  | /login?return_to=%2Fwesbos%2Fvaxbot
-docs4,08417,045 | The open-source repo for docs.github.com | Stargithub |  | /login?return_to=%2Fgithub%2Fdocs
-citr-v6-project10155 | Project files for the Complete Intro to React v6, as taught for Frontend Masters | Starbtholt |  | /login?return_to=%2Fbtholt%2Fcitr-v6-project
-30-Days-Of-JavaScript8,1441,698 | 30 days of JavaScript programming challenge is a step by step guide to learn JavaScript programming language in 30 days. This challenge may take up to 100 days, please just follow your own pace. | StarAsabeneh |  | /login?return_to=%2FAsabeneh%2F30-Days-Of-JavaScript
-iptv31,9211,743 | Collection of publicly available IPTV channels from all over the world | Stariptv-org |  | /login?return_to=%2Fiptv-org%2Fiptv
-crypto-trading-bot1,394485 | Cryptocurrency trading bot in javascript for Bitfinex, Bitmex, Binance, FTX, Bybit ... (public edition) | SponsorStarHaehnchen |  | /sponsors/Haehnchen
-ethereumbook8,5872,321 | Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood | Starethereumbook |  | /login?return_to=%2Fethereumbook%2Fethereumbook
-kit3,396227 | A monorepo for SvelteKit and friends | Starsveltejs |  | /login?return_to=%2Fsveltejs%2Fkit
-prism9,2101,078 | Lightweight, robust, elegant syntax highlighting. | StarPrismJS |  | /login?return_to=%2FPrismJS%2Fprism
-hicetnunc399114 | hicetnunc UI/UX | Starhicetnunc2000 |  | /login?return_to=%2Fhicetnunc2000%2Fhicetnunc |
+| edex-ui31,5951,697 | A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support. | SponsorStarGitSquared |  | /sponsors/GitSquared
+umami7,484619 | Umami is a simple, fast, website analytics alternative to Google Analytics. | Starmikecao |  | /login?return_to=%2Fmikecao%2Fumami
+covid19india-react5,9793,219 | Tracking the impact of COVID-19 in India | Starcovid19india |  | /login?return_to=%2Fcovid19india%2Fcovid19india-react
+next.js67,28212,552 | The React Framework | Starvercel |  | /login?return_to=%2Fvercel%2Fnext.js
+html5-boilerplate50,35311,554 | A professional front-end template for building fast, robust, and adaptable web apps or sites. | Starh5bp |  | /login?return_to=%2Fh5bp%2Fhtml5-boilerplate
+privacybot31912 |  | Starprivacybot-berkeley |  | /login?return_to=%2Fprivacybot-berkeley%2Fprivacybot
+sqliteviz77514 | Instant offline SQL-powered data visualisation in your browser | Starlana-k |  | /login?return_to=%2Flana-k%2Fsqliteviz
+cypress31,1851,788 | Fast, easy and reliable testing for anything that runs in a browser. | Starcypress-io |  | /login?return_to=%2Fcypress-io%2Fcypress
+moment45,6416,912 | Parse, validate, manipulate, and display dates in javascript. | Starmoment |  | /login?return_to=%2Fmoment%2Fmoment
+Daily-Interview-Question23,0762,905 | 我是依扬（木易杨），公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。 | StarAdvanced-Frontend |  | /login?return_to=%2FAdvanced-Frontend%2FDaily-Interview-Question
+nextjs-reactjs-gpt-37712 | GPT-3 Powered Serverless App using NextJS & React | Starharish-garg |  | /login?return_to=%2Fharish-garg%2Fnextjs-reactjs-gpt-3
+webpack58,2287,752 | A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff. | Starwebpack |  | /login?return_to=%2Fwebpack%2Fwebpack
+bepro-js10741 | The repository contains a comprehensive documentation of the bepro.network ecosystem as a javascript framework. If you are new to BEPRO, you might want to check out the Website Overview or our public "Start Building" Page. | Starbepronetwork |  | /login?return_to=%2Fbepronetwork%2Fbepro-js
+eleventy-high-performance-blog3,254195 | A high performance blog template for the 11ty static site generator. | Stargoogle |  | /login?return_to=%2Fgoogle%2Feleventy-high-performance-blog
+javascript109,00521,022 | JavaScript Style Guide | Starairbnb |  | /login?return_to=%2Fairbnb%2Fjavascript
+project_mern_memories1,150459 | This is a code repository for the corresponding video tutorial. Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called "Memories" and it is a simple social media app that allows users to post interesting events that happened in their lives. | Staradrianhajdin |  | /login?return_to=%2Fadrianhajdin%2Fproject_mern_memories
+jd-base805374 |  | Stardockere |  | /login?return_to=%2Fdockere%2Fjd-base
+uni-app31,3282,952 | uni-app 是使用 Vue 语法开发小程序、H5、App的统一框架 | Stardcloudio |  | /login?return_to=%2Fdcloudio%2Funi-app
+axios84,4718,184 | Promise based HTTP client for the browser and node.js | Staraxios |  | /login?return_to=%2Faxios%2Faxios
+react-native-keyboard-aware-scroll-view4,215519 | A ScrollView component that handles keyboard appearance and automatically scrolls to focused TextInput. | StarAPSL |  | /login?return_to=%2FAPSL%2Freact-native-keyboard-aware-scroll-view
+YesPlayMusic7,983954 | 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux | Starqier222 |  | /login?return_to=%2Fqier222%2FYesPlayMusic
+react168,54033,946 | A declarative, efficient, and flexible JavaScript library for building user interfaces. | Starfacebook |  | /login?return_to=%2Ffacebook%2Freact
+gutenberg6,8152,387 | The Block Editor project for WordPress and beyond. Plugin is available from the official repository. | StarWordPress |  | /login?return_to=%2FWordPress%2Fgutenberg
+create-react-app87,92721,881 | Set up a modern web app by running one command. | Starfacebook |  | /login?return_to=%2Ffacebook%2Fcreate-react-app
+handsontable15,1602,591 | JavaScript data grid with a spreadsheet look & feel. Works for React, Angular, and Vue. Supported by the Handsontable team ⚡ | Starhandsontable |  | /login?return_to=%2Fhandsontable%2Fhandsontable |
