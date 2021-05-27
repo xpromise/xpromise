@@ -2,28 +2,28 @@
 
 | 名称  | 描述  | 作者  | star量 | 地址  |
 | --- | --- | --- | ----- | --- |
-| edex-ui31,5951,697 | A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support. | SponsorStarGitSquared |  | /sponsors/GitSquared
-umami7,484619 | Umami is a simple, fast, website analytics alternative to Google Analytics. | Starmikecao |  | /login?return_to=%2Fmikecao%2Fumami
-covid19india-react5,9793,219 | Tracking the impact of COVID-19 in India | Starcovid19india |  | /login?return_to=%2Fcovid19india%2Fcovid19india-react
-next.js67,28212,552 | The React Framework | Starvercel |  | /login?return_to=%2Fvercel%2Fnext.js
-html5-boilerplate50,35311,554 | A professional front-end template for building fast, robust, and adaptable web apps or sites. | Starh5bp |  | /login?return_to=%2Fh5bp%2Fhtml5-boilerplate
-privacybot31912 |  | Starprivacybot-berkeley |  | /login?return_to=%2Fprivacybot-berkeley%2Fprivacybot
-sqliteviz77514 | Instant offline SQL-powered data visualisation in your browser | Starlana-k |  | /login?return_to=%2Flana-k%2Fsqliteviz
-cypress31,1851,788 | Fast, easy and reliable testing for anything that runs in a browser. | Starcypress-io |  | /login?return_to=%2Fcypress-io%2Fcypress
-moment45,6416,912 | Parse, validate, manipulate, and display dates in javascript. | Starmoment |  | /login?return_to=%2Fmoment%2Fmoment
-Daily-Interview-Question23,0762,905 | 我是依扬（木易杨），公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。 | StarAdvanced-Frontend |  | /login?return_to=%2FAdvanced-Frontend%2FDaily-Interview-Question
-nextjs-reactjs-gpt-37712 | GPT-3 Powered Serverless App using NextJS & React | Starharish-garg |  | /login?return_to=%2Fharish-garg%2Fnextjs-reactjs-gpt-3
-webpack58,2287,752 | A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff. | Starwebpack |  | /login?return_to=%2Fwebpack%2Fwebpack
-bepro-js10741 | The repository contains a comprehensive documentation of the bepro.network ecosystem as a javascript framework. If you are new to BEPRO, you might want to check out the Website Overview or our public "Start Building" Page. | Starbepronetwork |  | /login?return_to=%2Fbepronetwork%2Fbepro-js
-eleventy-high-performance-blog3,254195 | A high performance blog template for the 11ty static site generator. | Stargoogle |  | /login?return_to=%2Fgoogle%2Feleventy-high-performance-blog
-javascript109,00521,022 | JavaScript Style Guide | Starairbnb |  | /login?return_to=%2Fairbnb%2Fjavascript
-project_mern_memories1,150459 | This is a code repository for the corresponding video tutorial. Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called "Memories" and it is a simple social media app that allows users to post interesting events that happened in their lives. | Staradrianhajdin |  | /login?return_to=%2Fadrianhajdin%2Fproject_mern_memories
-jd-base805374 |  | Stardockere |  | /login?return_to=%2Fdockere%2Fjd-base
-uni-app31,3282,952 | uni-app 是使用 Vue 语法开发小程序、H5、App的统一框架 | Stardcloudio |  | /login?return_to=%2Fdcloudio%2Funi-app
-axios84,4718,184 | Promise based HTTP client for the browser and node.js | Staraxios |  | /login?return_to=%2Faxios%2Faxios
-react-native-keyboard-aware-scroll-view4,215519 | A ScrollView component that handles keyboard appearance and automatically scrolls to focused TextInput. | StarAPSL |  | /login?return_to=%2FAPSL%2Freact-native-keyboard-aware-scroll-view
-YesPlayMusic7,983954 | 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux | Starqier222 |  | /login?return_to=%2Fqier222%2FYesPlayMusic
-react168,54033,946 | A declarative, efficient, and flexible JavaScript library for building user interfaces. | Starfacebook |  | /login?return_to=%2Ffacebook%2Freact
-gutenberg6,8152,387 | The Block Editor project for WordPress and beyond. Plugin is available from the official repository. | StarWordPress |  | /login?return_to=%2FWordPress%2Fgutenberg
-create-react-app87,92721,881 | Set up a modern web app by running one command. | Starfacebook |  | /login?return_to=%2Ffacebook%2Fcreate-react-app
-handsontable15,1602,591 | JavaScript data grid with a spreadsheet look & feel. Works for React, Angular, and Vue. Supported by the Handsontable team ⚡ | Starhandsontable |  | /login?return_to=%2Fhandsontable%2Fhandsontable |
+| AI-Expert-Roadmap | Roadmap to becoming an Artificial Intelligence Expert in 2021 | FAMAI-GmbH |  | https://github.com/AMAI-GmbH/AI-Expert-Roadmap
+Web-Dev-For-Beginners | 24 Lessons, 12 Weeks, Get Started as a Web Developer | Fmicrosoft |  | https://github.com/microsoft/Web-Dev-For-Beginners
+appwrite | Appwrite is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment 🚀 | Fappwrite |  | https://github.com/appwrite/appwrite
+jd28 |  | Finoyna11 |  | https://github.com/inoyna11/jd28
+portainer | Making Docker and Kubernetes management easy. | Fportainer |  | https://github.com/portainer/portainer
+weekly | 前端精读周刊。帮你理解最前沿、实用的技术。 | Fascoders |  | https://github.com/ascoders/weekly
+amphtml | The AMP web component framework. | Fampproject |  | https://github.com/ampproject/amphtml
+discord.js | A powerful JavaScript library for interacting with the Discord API | Fdiscordjs |  | https://github.com/discordjs/discord.js
+Detox | Gray box end-to-end testing and automation framework for mobile apps | Fwix |  | https://github.com/wix/Detox
+nginxconfig.io | ⚙️ NGINX config generator on steroids 💉 | Fdigitalocean |  | https://github.com/digitalocean/nginxconfig.io
+Web | 前端入门到进阶图文教程，超详细的Web前端学习笔记。从零开始学前端，做一名精致优雅的前端工程师。公众号「千古壹号」作者。 | Fqianguyihao |  | https://github.com/qianguyihao/Web
+grapesjs | Free and Open source Web Builder Framework. Next generation tool for building templates without coding | Fartf |  | https://github.com/artf/grapesjs
+web | Grow Open Source | Fgitcoinco |  | https://github.com/gitcoinco/web
+discord-api-docs | Official Discord API Documentation | Fdiscord |  | https://github.com/discord/discord-api-docs
+coe-starter-kit |  | Fmicrosoft |  | https://github.com/microsoft/coe-starter-kit
+strapi | 🚀 Open source Node.js Headless CMS to easily build customisable APIs | Fstrapi |  | https://github.com/strapi/strapi
+Curso.Prep.Henry | Curso de Preparación para Ingresar a Henry. | Fatralice |  | https://github.com/atralice/Curso.Prep.Henry
+father | Library toolkit based on rollup and babel. | Fumijs |  | https://github.com/umijs/father
+jd_shell | 京豆 京东 lxk0301 jd-base loon docker 羊毛 脚本 | Flan-tianxiang |  | https://github.com/lan-tianxiang/jd_shell
+material-ui | Material-UI is a simple and customizable component library to build faster, beautiful, and more accessible React applications. Follow your own design system, or start with Material Design. | Fmui-org |  | https://github.com/mui-org/material-ui
+node-cron | A simple cron-like job scheduler for Node.js | Fnode-cron |  | https://github.com/node-cron/node-cron
+sql.js | A javascript library to run SQLite on the web. | Fsql-js |  | https://github.com/sql-js/sql.js
+gatsby | Build blazing fast, modern apps and websites with React | Fgatsbyjs |  | https://github.com/gatsbyjs/gatsby
+jd_scripts | lxk0301/jd_scripts备份。不要star。不要fork。谢谢配合。 | Fchinnkarahoi |  | https://github.com/chinnkarahoi/jd_scripts
+AdguardBrowserExtension | AdGuard browser extension | FAdguardTeam |  | https://github.com/AdguardTeam/AdguardBrowserExtension |
