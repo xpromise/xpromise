@@ -2,28 +2,28 @@
 
 | 名称  | 描述  | 作者  | star量 | 地址  |
 | --- | --- | --- | ----- | --- |
-| discord.js | A powerful JavaScript library for interacting with the Discord API | Fdiscordjs |  | https://github.com/discordjs/discord.js
-Web-Dev-For-Beginners | 24 Lessons, 12 Weeks, Get Started as a Web Developer | Fmicrosoft |  | https://github.com/microsoft/Web-Dev-For-Beginners
-PwnedPasswordsCloudflareWorker |  | FHaveIBeenPwned |  | https://github.com/HaveIBeenPwned/PwnedPasswordsCloudflareWorker
-discord-buttons | A discord.js api for the discord buttons | FAngeloCore |  | https://github.com/AngeloCore/discord-buttons
-Superalgos | Free, open-source crypto trading bot, automated bitcoin / cryptocurrency trading software, algorithmic trading bots. Visually design your crypto trading bot, leveraging an integrated charting system, data-mining, backtesting, paper trading, and multi-server crypto bot deployments. | FSuperalgos |  | https://github.com/Superalgos/Superalgos
-boring-avatars | Boring avatars is a tiny JavaScript React library that generates custom, SVG-based, round avatars from any username and color palette. | Fboringdesigners |  | https://github.com/boringdesigners/boring-avatars
-QuanX | 一键配置懒人包 | Fsngxpro |  | https://github.com/sngxpro/QuanX
-react | Cheatsheets for experienced React developers getting started with TypeScript | Ftypescript-cheatsheets |  | https://github.com/typescript-cheatsheets/react
-v4 | Fourth iteration of my personal website built with Gatsby | Fbchiang7 |  | https://github.com/bchiang7/v4
-bunken | A chrome extension to download ebooks directly from Goodreads. | Flaxyapahuja |  | https://github.com/laxyapahuja/bunken
-AI-Expert-Roadmap | Roadmap to becoming an Artificial Intelligence Expert in 2021 | FAMAI-GmbH |  | https://github.com/AMAI-GmbH/AI-Expert-Roadmap
-project_mern_memories | This is a code repository for the corresponding video tutorial. Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called "Memories" and it is a simple social media app that allows users to post interesting events that happened in their lives. | Fadrianhajdin |  | https://github.com/adrianhajdin/project_mern_memories
-SendScriptWhatsApp | Script para enviar o Roteiro do filme Shrek, linha por linha, no WhatsApp | FMatt-Fontes |  | https://github.com/Matt-Fontes/SendScriptWhatsApp
-the-super-tiny-compiler | ⛄ Possibly the smallest compiler ever | Fjamiebuilds |  | https://github.com/jamiebuilds/the-super-tiny-compiler
-jd_shell | 京豆 京东 lxk0301 jd-base loon docker 羊毛 脚本 | Flan-tianxiang |  | https://github.com/lan-tianxiang/jd_shell
-cowin-vaccine-booking | The app enables tracking coivid vaccine availability and automatically book a vaccination slot. This is based on Cowin API and supports the recently added Captcha code of Cowin. | Fyashwanthm |  | https://github.com/yashwanthm/cowin-vaccine-booking
-taojinbi | 淘宝淘金币自动执行脚本，包含蚂蚁森林收取能量，芭芭农场全任务，解放你的双手 | FJavisPeng |  | https://github.com/JavisPeng/taojinbi
-django-ecommerce | An e-commerce website built with Django | Fjustdjango |  | https://github.com/justdjango/django-ecommerce
-jd28 |  | Finoyna11 |  | https://github.com/inoyna11/jd28
-jd_scripts | lxk0301/jd_scripts备份。不要star。不要fork。谢谢配合。 | Fchinnkarahoi |  | https://github.com/chinnkarahoi/jd_scripts
-cowin-automation-extn | Source code for chrome extension Cowin Automation. Auto fills the fields on cowin vaccine slot booking portal to speed up the process and quickly book a slot. | Fsushrut111 |  | https://github.com/sushrut111/cowin-automation-extn
-openzeppelin-contracts | OpenZeppelin Contracts is a library for secure smart contract development. | FOpenZeppelin |  | https://github.com/OpenZeppelin/openzeppelin-contracts
-eattheblocks | Source code for Eat The Blocks, a screencast for Ethereum Dapp Developers | Fjklepatch |  | https://github.com/jklepatch/eattheblocks
-home-assistant-config | My Home Assistant configuration for a wall mounted tablet. | FTanner3644 |  | https://github.com/Tanner3644/home-assistant-config
-react-developer-roadmap | Roadmap to becoming a React developer | Fadam-golab |  | https://github.com/adam-golab/react-developer-roadmap |
+| javascript-algorithms108,87518,036 | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings | SponsorStartrekhleb |  | /sponsors/trekhleb
+jd_scripts320270 | lxk0301/jd_scripts备份。不要star。不要fork。谢谢配合。 | Starchinnkarahoi |  | /login?return_to=%2Fchinnkarahoi%2Fjd_scripts
+racing-game75143 | 🏎 Open source racing game developed by everyone willing | Starpmndrs |  | /login?return_to=%2Fpmndrs%2Fracing-game
+nodebestpractices66,5506,603 | ✅ The Node.js best practices list (June 2021) | Stargoldbergyoni |  | /login?return_to=%2Fgoldbergyoni%2Fnodebestpractices
+tech-interview-handbook54,6847,689 | 💯 Materials to help you rock your next coding interview | SponsorStaryangshun |  | /sponsors/yangshun
+junior-recruit-scheduler5,6951,059 | 주니어 개발자 채용 정보 | Starjojoldu |  | /login?return_to=%2Fjojoldu%2Fjunior-recruit-scheduler
+vue184,08429,204 | 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web. | Starvuejs |  | /login?return_to=%2Fvuejs%2Fvue
+javascript109,43821,083 | JavaScript Style Guide | Starairbnb |  | /login?return_to=%2Fairbnb%2Fjavascript
+jquery54,92819,973 | jQuery JavaScript Library | Starjquery |  | /login?return_to=%2Fjquery%2Fjquery
+next.js68,23312,781 | The React Framework | Starvercel |  | /login?return_to=%2Fvercel%2Fnext.js
+cesium7,0822,545 | An open-source JavaScript library for world-class 3D globes and maps 🌎 | StarCesiumGS |  | /login?return_to=%2FCesiumGS%2Fcesium
+jsencrypt5,1441,707 | A Javascript library to perform OpenSSL RSA Encryption, Decryption, and Key Generation. | SponsorStartravist |  | /sponsors/travist
+react-native95,81920,873 | A framework for building native apps with React. | Starfacebook |  | /login?return_to=%2Ffacebook%2Freact-native
+jd_shell695290 | 京豆 京东 lxk0301 jd-base loon docker 羊毛 脚本 | Starlan-tianxiang |  | /login?return_to=%2Flan-tianxiang%2Fjd_shell
+github-profile-readme-generator4,749898 | 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI. | Starrahuldkjain |  | /login?return_to=%2Frahuldkjain%2Fgithub-profile-readme-generator
+drawio-desktop18,0831,999 | Official electron build of diagrams.net | SponsorStarjgraph |  | /sponsors/jgraph
+cypress31,4781,811 | Fast, easy and reliable testing for anything that runs in a browser. | Starcypress-io |  | /login?return_to=%2Fcypress-io%2Fcypress
+material-ui68,66222,205 | Material-UI is a simple and customizable component library to build faster, beautiful, and more accessible React applications. Follow your own design system, or start with Material Design. | Starmui-org |  | /login?return_to=%2Fmui-org%2Fmaterial-ui
+vfat-tools449305 |  | Starvfat-tools |  | /login?return_to=%2Fvfat-tools%2Fvfat-tools
+Chart.js53,84010,944 | Simple HTML5 Charts using the <canvas> tag | Starchartjs |  | /login?return_to=%2Fchartjs%2FChart.js
+handsontable15,2312,596 | JavaScript data grid with a spreadsheet look & feel. Works for React, Angular, and Vue. Supported by the Handsontable team ⚡ | Starhandsontable |  | /login?return_to=%2Fhandsontable%2Fhandsontable
+draft-js20,3742,362 | A React framework for building text editors. | Starfacebook |  | /login?return_to=%2Ffacebook%2Fdraft-js
+react169,32134,160 | A declarative, efficient, and flexible JavaScript library for building user interfaces. | Starfacebook |  | /login?return_to=%2Ffacebook%2Freact
+clean-code-javascript52,5406,535 | 🛁 Clean Code concepts adapted for JavaScript | Starryanmcdermott |  | /login?return_to=%2Fryanmcdermott%2Fclean-code-javascript
+create-react-app88,24021,998 | Set up a modern web app by running one command. | Starfacebook |  | /login?return_to=%2Ffacebook%2Fcreate-react-app |
