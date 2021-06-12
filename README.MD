@@ -2,28 +2,28 @@
 
 | 名称  | 描述  | 作者  | star量 | 地址  |
 | --- | --- | --- | ----- | --- |
-| javascript-algorithms108,87518,036 | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings | SponsorStartrekhleb |  | /sponsors/trekhleb
-jd_scripts320270 | lxk0301/jd_scripts备份。不要star。不要fork。谢谢配合。 | Starchinnkarahoi |  | /login?return_to=%2Fchinnkarahoi%2Fjd_scripts
-racing-game75143 | 🏎 Open source racing game developed by everyone willing | Starpmndrs |  | /login?return_to=%2Fpmndrs%2Fracing-game
-nodebestpractices66,5506,603 | ✅ The Node.js best practices list (June 2021) | Stargoldbergyoni |  | /login?return_to=%2Fgoldbergyoni%2Fnodebestpractices
-tech-interview-handbook54,6847,689 | 💯 Materials to help you rock your next coding interview | SponsorStaryangshun |  | /sponsors/yangshun
-junior-recruit-scheduler5,6951,059 | 주니어 개발자 채용 정보 | Starjojoldu |  | /login?return_to=%2Fjojoldu%2Fjunior-recruit-scheduler
-vue184,08429,204 | 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web. | Starvuejs |  | /login?return_to=%2Fvuejs%2Fvue
-javascript109,43821,083 | JavaScript Style Guide | Starairbnb |  | /login?return_to=%2Fairbnb%2Fjavascript
-jquery54,92819,973 | jQuery JavaScript Library | Starjquery |  | /login?return_to=%2Fjquery%2Fjquery
-next.js68,23312,781 | The React Framework | Starvercel |  | /login?return_to=%2Fvercel%2Fnext.js
-cesium7,0822,545 | An open-source JavaScript library for world-class 3D globes and maps 🌎 | StarCesiumGS |  | /login?return_to=%2FCesiumGS%2Fcesium
-jsencrypt5,1441,707 | A Javascript library to perform OpenSSL RSA Encryption, Decryption, and Key Generation. | SponsorStartravist |  | /sponsors/travist
-react-native95,81920,873 | A framework for building native apps with React. | Starfacebook |  | /login?return_to=%2Ffacebook%2Freact-native
-jd_shell695290 | 京豆 京东 lxk0301 jd-base loon docker 羊毛 脚本 | Starlan-tianxiang |  | /login?return_to=%2Flan-tianxiang%2Fjd_shell
-github-profile-readme-generator4,749898 | 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI. | Starrahuldkjain |  | /login?return_to=%2Frahuldkjain%2Fgithub-profile-readme-generator
-drawio-desktop18,0831,999 | Official electron build of diagrams.net | SponsorStarjgraph |  | /sponsors/jgraph
-cypress31,4781,811 | Fast, easy and reliable testing for anything that runs in a browser. | Starcypress-io |  | /login?return_to=%2Fcypress-io%2Fcypress
-material-ui68,66222,205 | Material-UI is a simple and customizable component library to build faster, beautiful, and more accessible React applications. Follow your own design system, or start with Material Design. | Starmui-org |  | /login?return_to=%2Fmui-org%2Fmaterial-ui
-vfat-tools449305 |  | Starvfat-tools |  | /login?return_to=%2Fvfat-tools%2Fvfat-tools
-Chart.js53,84010,944 | Simple HTML5 Charts using the <canvas> tag | Starchartjs |  | /login?return_to=%2Fchartjs%2FChart.js
-handsontable15,2312,596 | JavaScript data grid with a spreadsheet look & feel. Works for React, Angular, and Vue. Supported by the Handsontable team ⚡ | Starhandsontable |  | /login?return_to=%2Fhandsontable%2Fhandsontable
-draft-js20,3742,362 | A React framework for building text editors. | Starfacebook |  | /login?return_to=%2Ffacebook%2Fdraft-js
-react169,32134,160 | A declarative, efficient, and flexible JavaScript library for building user interfaces. | Starfacebook |  | /login?return_to=%2Ffacebook%2Freact
-clean-code-javascript52,5406,535 | 🛁 Clean Code concepts adapted for JavaScript | Starryanmcdermott |  | /login?return_to=%2Fryanmcdermott%2Fclean-code-javascript
-create-react-app88,24021,998 | Set up a modern web app by running one command. | Starfacebook |  | /login?return_to=%2Ffacebook%2Fcreate-react-app |
+| OpenAPI-Specification | The OpenAPI Specification Repository | FOAI |  | https://github.com/OAI/OpenAPI-Specification
+MyActions |  | Fwuzhi04 |  | https://github.com/wuzhi04/MyActions
+Bootstrap-5-portfolio-template | Learning Bootstrap 5 with SASS | FMuriungiPatrick |  | https://github.com/MuriungiPatrick/Bootstrap-5-portfolio-template
+cypress | Fast, easy and reliable testing for anything that runs in a browser. | Fcypress-io |  | https://github.com/cypress-io/cypress
+panghu | 公众号 柠檬玩机交流 | Fpanghu999 |  | https://github.com/panghu999/panghu
+iptv | Collection of publicly available IPTV channels from all over the world | Fiptv-org |  | https://github.com/iptv-org/iptv
+Map-of-Javascript | Javascript on one sheet. (and one for algorithms) | Fmechaniac |  | https://github.com/mechaniac/Map-of-Javascript
+Vue.Draggable | Vue drag-and-drop component based on Sortable.js | FSortableJS |  | https://github.com/SortableJS/Vue.Draggable
+jira_clone | A simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress. | Foldboyxx |  | https://github.com/oldboyxx/jira_clone
+msk-javascript-bootcamp | 6.5 hours of video session covering javascript concepts. | FMSK-Web-development |  | https://github.com/MSK-Web-development/msk-javascript-bootcamp
+JD_tencent_scf | 低调使用，不要fork！防止失联请收藏gitee备份地址：https://gitee.com/zero205/JD_tencent_scf | Fzero205 |  | https://github.com/zero205/JD_tencent_scf
+next.js | The React Framework | Fvercel |  | https://github.com/vercel/next.js
+flexsearch | Next-Generation full text search library for Browser and Node.js | Fnextapps-de |  | https://github.com/nextapps-de/flexsearch
+react-beautiful-dnd | Beautiful and accessible drag and drop for lists with React | Fatlassian |  | https://github.com/atlassian/react-beautiful-dnd
+openzeppelin-contracts | OpenZeppelin Contracts is a library for secure smart contract development. | FOpenZeppelin |  | https://github.com/OpenZeppelin/openzeppelin-contracts
+react | A declarative, efficient, and flexible JavaScript library for building user interfaces. | Ffacebook |  | https://github.com/facebook/react
+Web | 前端入门到进阶图文教程，超详细的Web前端学习笔记。从零开始学前端，做一名精致优雅的前端工程师。公众号「千古壹号」作者。 | Fqianguyihao |  | https://github.com/qianguyihao/Web
+1 |  | FChuheGit |  | https://github.com/ChuheGit/1
+kit | The fastest way to build Svelte apps | Fsveltejs |  | https://github.com/sveltejs/kit
+material-ui | Material-UI is a simple and customizable component library to build faster, beautiful, and more accessible React applications. Follow your own design system, or start with Material Design. | Fmui-org |  | https://github.com/mui-org/material-ui
+Recoil | Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of React. | Ffacebookexperimental |  | https://github.com/facebookexperimental/Recoil
+relay | Relay is a JavaScript framework for building data-driven React applications. | Ffacebook |  | https://github.com/facebook/relay
+lodash | A modern JavaScript utility library delivering modularity, performance, & extras. | Flodash |  | https://github.com/lodash/lodash
+JDDJ | 京东到家果园庄园脚本,电报群:https://t.me/passerbyb2021 | Fpasserby-b |  | https://github.com/passerby-b/JDDJ
+Sortable | Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery required. | FSortableJS |  | https://github.com/SortableJS/Sortable |
