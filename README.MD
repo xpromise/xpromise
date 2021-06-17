@@ -2,28 +2,28 @@
 
 | 名称  | 描述  | 作者  | star量 | 地址  |
 | --- | --- | --- | ----- | --- |
-| iptv | Collection of publicly available IPTV channels from all over the world | Fiptv-org |  | https://github.com/iptv-org/iptv
-MyActions |  | Fwuzhi04 |  | https://github.com/wuzhi04/MyActions
-Bootstrap-5-portfolio-template | Learning Bootstrap 5 with SASS | FMuriungiPatrick |  | https://github.com/MuriungiPatrick/Bootstrap-5-portfolio-template
-atom | The hackable text editor | Fatom |  | https://github.com/atom/atom
-racing-game | 🏎 Open source racing game developed by everyone willing | Fpmndrs |  | https://github.com/pmndrs/racing-game
-eattheblocks | Source code for Eat The Blocks, a screencast for Ethereum Dapp Developers | Fjklepatch |  | https://github.com/jklepatch/eattheblocks
-jira_clone | A simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress. | Foldboyxx |  | https://github.com/oldboyxx/jira_clone
-spicetify-cli | Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux. | Fkhanhas |  | https://github.com/khanhas/spicetify-cli
-devkamet | Learn to build any SaaS product through devKamet, an interactive platform to learn the essentials of Computer Science, Data Structures, Algorithms, and Operating Systems using Golang 👩‍🚀 | FabdulrahmanAlotaibi |  | https://github.com/abdulrahmanAlotaibi/devkamet
-github-readme-stats | ⚡ Dynamically generated stats for your github readmes | Fanuraghazra |  | https://github.com/anuraghazra/github-readme-stats
+| next.js | The React Framework | Fvercel |  | https://github.com/vercel/next.js
 30-Days-Of-JavaScript | 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace. | FAsabeneh |  | https://github.com/Asabeneh/30-Days-Of-JavaScript
-Map-of-Javascript | Javascript on one sheet. (and one for algorithms) | Fmechaniac |  | https://github.com/mechaniac/Map-of-Javascript
-relay | Relay is a JavaScript framework for building data-driven React applications. | Ffacebook |  | https://github.com/facebook/relay
-JD_tencent_scf | 低调使用，不要fork！防止失联请收藏gitee备份地址：https://gitee.com/zero205/JD_tencent_scf | Fzero205 |  | https://github.com/zero205/JD_tencent_scf
+turbo-rails | Use Turbo in your Ruby on Rails app | Fhotwired |  | https://github.com/hotwired/turbo-rails
+undici | An HTTP/1.1 client, written from scratch for Node.js | Fnodejs |  | https://github.com/nodejs/undici
 jd |  | Fstar261 |  | https://github.com/star261/jd
-complete-javascript-course | Starter files, final projects and FAQ for my Complete JavaScript course | Fjonasschmedtmann |  | https://github.com/jonasschmedtmann/complete-javascript-course
-1 |  | FChuheGit |  | https://github.com/ChuheGit/1
-QuanX | 一键配置懒人包 | Fsngxpro |  | https://github.com/sngxpro/QuanX
-docs | The open-source repo for docs.github.com | Fgithub |  | https://github.com/github/docs
-a32nx | The A32NX Project is a community driven open source project to create a free Airbus A320neo in Microsoft Flight Simulator that is as close to reality as possible. It aims to enhance the default A320neo by improving the systems depth and functionality to bring it up to payware-level, all for free. | Fflybywiresim |  | https://github.com/flybywiresim/a32nx
-react | A declarative, efficient, and flexible JavaScript library for building user interfaces. | Ffacebook |  | https://github.com/facebook/react
-next.js | The React Framework | Fvercel |  | https://github.com/vercel/next.js
-Script |  | Fmoposmall |  | https://github.com/moposmall/Script
-discord.js | A powerful JavaScript library for interacting with the Discord API | Fdiscordjs |  | https://github.com/discordjs/discord.js
-Zoom-Clone-With-WebRTC |  | FWebDevSimplified |  | https://github.com/WebDevSimplified/Zoom-Clone-With-WebRTC |
+node | Node.js JavaScript runtime ✨🐢🚀✨ | Fnodejs |  | https://github.com/nodejs/node
+marked | A markdown parser and compiler. Built for speed. | Fmarkedjs |  | https://github.com/markedjs/marked
+Baileys | Lightweight full-featured typescript/javascript WhatsApp Web API | Fadiwajshing |  | https://github.com/adiwajshing/Baileys
+SS-Rule-Snippet | 搜集、整理、维护 Surge / Quantumult (X) / Shadowrocket / Surfboard / clash (Premium) 实用规则。 | FHackl0us |  | https://github.com/Hackl0us/SS-Rule-Snippet
+protobuf.js | Protocol Buffers for JavaScript (& TypeScript). | Fprotobufjs |  | https://github.com/protobufjs/protobuf.js
+pwn-my | iOS 14.5 WebKit/Safari based Jailbreak | FRPwnage |  | https://github.com/RPwnage/pwn-my
+atom | The hackable text editor | Fatom |  | https://github.com/atom/atom
+material-ui | Material-UI is a simple and customizable component library to build faster, beautiful, and more accessible React applications. Follow your own design system, or start with Material Design. | Fmui-org |  | https://github.com/mui-org/material-ui
+chinese-poetry | The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。 | Fchinese-poetry |  | https://github.com/chinese-poetry/chinese-poetry
+budibase | Budibase is an open-source low code platform that helps you build, automate and self-host internal and external tools in minutes 🚀 | FBudibase |  | https://github.com/Budibase/budibase
+the-super-tiny-compiler | ⛄ Possibly the smallest compiler ever | Fjamiebuilds |  | https://github.com/jamiebuilds/the-super-tiny-compiler
+strapi | 🚀 Open source Node.js Headless CMS to easily build customisable APIs | Fstrapi |  | https://github.com/strapi/strapi
+vue-admin-template | a vue2.0 minimal admin template | FPanJiaChen |  | https://github.com/PanJiaChen/vue-admin-template
+reactjs-interview-questions | List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!! | Fsudheerj |  | https://github.com/sudheerj/reactjs-interview-questions
+vue-cli | 🛠️ Standard Tooling for Vue.js Development | Fvuejs |  | https://github.com/vuejs/vue-cli
+BotBuilder-Samples | Welcome to the Bot Framework samples repository. Here you will find task-focused samples in C#, JavaScript and TypeScript to help you get started with the Bot Framework SDK! | Fmicrosoft |  | https://github.com/microsoft/BotBuilder-Samples
+vConsole | A lightweight, extendable front-end developer tool for mobile web page. | FTencent |  | https://github.com/Tencent/vConsole
+TIMSDK | 腾讯云即时通信 IM 服务，国内下载镜像： | Ftencentyun |  | https://github.com/tencentyun/TIMSDK
+auto-xxqg | 最新版的 自动学习强国 ，v2.4.0以上的版本 | FGingmzmzx |  | https://github.com/Gingmzmzx/auto-xxqg
+yapi | YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台 | FYMFE |  | https://github.com/YMFE/yapi |
